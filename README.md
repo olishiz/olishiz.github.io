@@ -1,4 +1,4 @@
-# olishiz.github.io
+# Resume
 Static Github Page for my personal website.
 
 Credits goes to 'dwightjack' for open sourcing such a beautiful personal website.
