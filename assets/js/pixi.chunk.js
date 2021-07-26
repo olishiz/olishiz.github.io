@@ -209,20 +209,20 @@ var Particles = function () {
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_pixi_vue__ = __webpack_require__("./node_modules/babel-loader/lib/index.js!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./app/assets/js/objects/Avatar/pixi.vue");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_274461ce_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__ = __webpack_require__("./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-274461ce\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/Avatar/pixi.vue");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_1aea0006_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__ = __webpack_require__("./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-1aea0006\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/Avatar/pixi.vue");
 var disposed = false
 var cssModules = {}
-module.hot && module.hot.accept(["!!vue-style-loader!css-loader?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!resolve-url-loader?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!sass-loader?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./avatar.scss"], function () {
+module.hot && module.hot.accept(["!!vue-style-loader!css-loader?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!resolve-url-loader?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!sass-loader?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./avatar.scss"], function () {
   var oldLocals = cssModules["$style"]
   if (!oldLocals) return
-  var newLocals = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss")
+  var newLocals = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss")
   if (JSON.stringify(newLocals) === JSON.stringify(oldLocals)) return
   cssModules["$style"] = newLocals
-  __webpack_require__("./node_modules/vue-hot-reload-api/dist/index.js").rerender("data-v-274461ce")
+  __webpack_require__("./node_modules/vue-hot-reload-api/dist/index.js").rerender("data-v-1aea0006")
 })
 function injectStyle (ssrContext) {
   if (disposed) return
-  cssModules["$style"] = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss")
+  cssModules["$style"] = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss")
 Object.defineProperty(this, "$style", { get: function () { return cssModules["$style"] }})
 }
 var normalizeComponent = __webpack_require__("./node_modules/vue-loader/lib/component-normalizer.js")
@@ -240,7 +240,7 @@ var __vue_scopeId__ = null
 var __vue_module_identifier__ = null
 var Component = normalizeComponent(
   __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_pixi_vue__["a" /* default */],
-  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_274461ce_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__["a" /* default */],
+  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_1aea0006_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__["a" /* default */],
   __vue_template_functional__,
   __vue_styles__,
   __vue_scopeId__,
@@ -256,12 +256,12 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-274461ce", Component.options)
+    hotAPI.createRecord("data-v-1aea0006", Component.options)
   } else {
     if (module.hot.data.cssModules && Object.keys(module.hot.data.cssModules) !== Object.keys(cssModules)) {
       delete Component.options._Ctor
     }
-    hotAPI.reload("data-v-274461ce", Component.options)
+    hotAPI.reload("data-v-1aea0006", Component.options)
 ' + '  }
   module.hot.dispose(function (data) {
     data.cssModules = cssModules
@@ -281,20 +281,20 @@ if (false) {(function () {
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_pixi_vue__ = __webpack_require__("./node_modules/babel-loader/lib/index.js!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./app/assets/js/objects/BgPattern/pixi.vue");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_343bfe20_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__ = __webpack_require__("./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-343bfe20\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/BgPattern/pixi.vue");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_5c0917b8_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__ = __webpack_require__("./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-5c0917b8\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/BgPattern/pixi.vue");
 var disposed = false
 var cssModules = {}
-module.hot && module.hot.accept(["!!vue-style-loader!css-loader?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!resolve-url-loader?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!sass-loader?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!../../../../../node_modules/vue-loader/lib/selector?type=styles&index=0!./pixi.vue"], function () {
+module.hot && module.hot.accept(["!!vue-style-loader!css-loader?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!resolve-url-loader?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!sass-loader?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!../../../../../node_modules/vue-loader/lib/selector?type=styles&index=0!./pixi.vue"], function () {
   var oldLocals = cssModules["$style"]
   if (!oldLocals) return
-  var newLocals = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue")
+  var newLocals = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue")
   if (JSON.stringify(newLocals) === JSON.stringify(oldLocals)) return
   cssModules["$style"] = newLocals
-  __webpack_require__("./node_modules/vue-hot-reload-api/dist/index.js").rerender("data-v-343bfe20")
+  __webpack_require__("./node_modules/vue-hot-reload-api/dist/index.js").rerender("data-v-5c0917b8")
 })
 function injectStyle (ssrContext) {
   if (disposed) return
-  cssModules["$style"] = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue")
+  cssModules["$style"] = __webpack_require__("./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue")
 Object.defineProperty(this, "$style", { get: function () { return cssModules["$style"] }})
 }
 var normalizeComponent = __webpack_require__("./node_modules/vue-loader/lib/component-normalizer.js")
@@ -312,7 +312,7 @@ var __vue_scopeId__ = null
 var __vue_module_identifier__ = null
 var Component = normalizeComponent(
   __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_pixi_vue__["a" /* default */],
-  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_343bfe20_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__["a" /* default */],
+  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_5c0917b8_hasScoped_false_transformToRequire_video_src_source_src_img_src_image_xlink_href_preserveWhitespace_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_pixi_vue__["a" /* default */],
   __vue_template_functional__,
   __vue_styles__,
   __vue_scopeId__,
@@ -328,12 +328,12 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-343bfe20", Component.options)
+    hotAPI.createRecord("data-v-5c0917b8", Component.options)
   } else {
     if (module.hot.data.cssModules && Object.keys(module.hot.data.cssModules) !== Object.keys(cssModules)) {
       delete Component.options._Ctor
     }
-    hotAPI.reload("data-v-343bfe20", Component.options)
+    hotAPI.reload("data-v-5c0917b8", Component.options)
 ' + '  }
   module.hot.dispose(function (data) {
     data.cssModules = cssModules
@@ -959,7 +959,7 @@ exports.nextCombination = function(v) {
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss":
+/***/ "./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(true);
@@ -967,7 +967,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\n.avatar__root---3U2ZP {\n  position: relative;\n  z-index: -1;\n  margin: 0;\n}\n@media (min-width: 64em) {\n.avatar__root---3U2ZP {\n    transform: translate(-16.6666666667%, -16.6666666667%);\n}\n}\n@media not print {\n.canvas .avatar__fallback---23Ydd {\n    position: absolute;\n    overflow: hidden;\n    clip: rect(0 0 0 0);\n    width: 1px;\n    height: 1px;\n    margin: -1px;\n    padding: 0;\n    border: 0;\n}\n}\n.no-canvas .avatar__canvas---216dU {\n  display: none;\n}\n@media print {\n.avatar__canvas---216dU {\n    display: none;\n}\n}\n\n/*\r\n.img {\r\n    transform: scale(1.05);\r\n    transform-origin: center center;\r\n    transition: transform 0.2s ease-out 0.2s;\r\n    will-change: transform;\r\n\r\n    .root:hover & {\r\n        transform: scale(1.05) translate(1.5%, 0);\r\n        transition-delay: 0s;\r\n    }\r\n}\r\n*/\n\n/*\r\n.shadow {\r\n    position: absolute;\r\n    top: 0;\r\n    left: 0;\r\n    z-index: z-index(behind);\r\n    opacity: 0.5;\r\n    width: 100%;\r\n    height: 100%;\r\n    fill: $color-link;\r\n    transform: scale(0.95);\r\n    transition: transform 0.3s ease-out 0s;\r\n\r\n    :global(.touchevents) &,\r\n    .root:hover & {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n\r\n    @media print {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n}\r\n*/\n\n", "", {"version":3,"sources":["C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/avatar.scss","C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/avatar.scss","C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/C:/Users/User/IdeaProjects/marco.solazzi.me/node_modules/sass-mq/_mq.scss","C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/Avatar/C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/styles/_mixins.scss"],"names":[],"mappings":";AAKA;EACI,mBAAA;EACA,YAAA;EACA,UAAA;CCJH;AC4NO;AF3NR;IAQQ,uDAAA;CCJL;CACF;ADUG;AAEI;IG2IJ,mBAAA;IACA,iBAAA;IACA,oBAAA;IACA,WAAA;IACA,YAAA;IACA,aAAA;IACA,WAAA;IACA,UAAA;CFlJD;CACF;ADQG;EACI,cAAA;CCLP;ADQG;AANJ;IAOQ,cAAA;CCJL;CACF;;ADOD;;;;;;;;;;;;ECOE;;ADOF;;;;;;;;;;;;;;;;;;;;;;;;ECmBE","file":"avatar.scss","sourcesContent":["@import \"globals\";\r\n@import \"mixins\";\r\n@import \"colors\";\r\n@import \"sass-mq/mq\";\r\n\r\n.root {\r\n    position: relative;\r\n    z-index: -1;\r\n    margin: 0;\r\n\r\n    $translate: percentage(((600 - 400) / 2) / -600);\r\n\r\n    @include mq('tablet-landscape') {\r\n        transform: translate($translate, $translate);\r\n    }\r\n}\r\n\r\n.fallback {\r\n\r\n\r\n    @media not print {\r\n\r\n        :global(.canvas) & {\r\n            @include visually-hidden;\r\n        }\r\n    }\r\n}\r\n\r\n\r\n.canvas {\r\n\r\n    :global(.no-canvas) & {\r\n        display: none;\r\n    }\r\n\r\n    @media print {\r\n        display: none;\r\n    }\r\n}\r\n\r\n/*\r\n.img {\r\n    transform: scale(1.05);\r\n    transform-origin: center center;\r\n    transition: transform 0.2s ease-out 0.2s;\r\n    will-change: transform;\r\n\r\n    .root:hover & {\r\n        transform: scale(1.05) translate(1.5%, 0);\r\n        transition-delay: 0s;\r\n    }\r\n}\r\n*/\r\n\r\n/*\r\n.shadow {\r\n    position: absolute;\r\n    top: 0;\r\n    left: 0;\r\n    z-index: z-index(behind);\r\n    opacity: 0.5;\r\n    width: 100%;\r\n    height: 100%;\r\n    fill: $color-link;\r\n    transform: scale(0.95);\r\n    transition: transform 0.3s ease-out 0s;\r\n\r\n    :global(.touchevents) &,\r\n    .root:hover & {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n\r\n    @media print {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n}\r\n*/\r\n",".root {\n  position: relative;\n  z-index: -1;\n  margin: 0;\n}\n\n@media (min-width: 64em) {\n  .root {\n    transform: translate(-16.6666666667%, -16.6666666667%);\n  }\n}\n\n@media not print {\n  :global(.canvas) .fallback {\n    position: absolute;\n    overflow: hidden;\n    clip: rect(0 0 0 0);\n    width: 1px;\n    height: 1px;\n    margin: -1px;\n    padding: 0;\n    border: 0;\n  }\n}\n\n:global(.no-canvas) .canvas {\n  display: none;\n}\n\n@media print {\n  .canvas {\n    display: none;\n  }\n}\n\n/*\r\n.img {\r\n    transform: scale(1.05);\r\n    transform-origin: center center;\r\n    transition: transform 0.2s ease-out 0.2s;\r\n    will-change: transform;\r\n\r\n    .root:hover & {\r\n        transform: scale(1.05) translate(1.5%, 0);\r\n        transition-delay: 0s;\r\n    }\r\n}\r\n*/\n\n/*\r\n.shadow {\r\n    position: absolute;\r\n    top: 0;\r\n    left: 0;\r\n    z-index: z-index(behind);\r\n    opacity: 0.5;\r\n    width: 100%;\r\n    height: 100%;\r\n    fill: $color-link;\r\n    transform: scale(0.95);\r\n    transition: transform 0.3s ease-out 0s;\r\n\r\n    :global(.touchevents) &,\r\n    .root:hover & {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n\r\n    @media print {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n}\r\n*/\n\n","@charset \"UTF-8\"; // Fixes an issue where Ruby locale is not set properly\n                  // See https://github.com/sass-mq/sass-mq/pull/10\n\n/// Base font size on the `<body>` element\n/// @type Number (unit)\n$mq-base-font-size: 16px !default;\n\n/// Responsive mode\n///\n/// Set to `false` to enable support for browsers that do not support @media queries,\n/// (IE <= 8, Firefox <= 3, Opera <= 9)\n///\n/// You could create a stylesheet served exclusively to older browsers,\n/// where @media queries are rasterized\n///\n/// @example scss\n///  // old-ie.scss\n///  $mq-responsive: false;\n///  @import 'main'; // @media queries in this file will be rasterized up to $mq-static-breakpoint\n///                   // larger breakpoints will be ignored\n///\n/// @type Boolean\n/// @link https://github.com/sass-mq/sass-mq#responsive-mode-off Disabled responsive mode documentation\n$mq-responsive: true !default;\n\n/// Breakpoint list\n///\n/// Name your breakpoints in a way that creates a ubiquitous language\n/// across team members. It will improve communication between\n/// stakeholders, designers, developers, and testers.\n///\n/// @type Map\n/// @link https://github.com/sass-mq/sass-mq#seeing-the-currently-active-breakpoint Full documentation and examples\n$mq-breakpoints: (\n    mobile:  320px,\n    tablet:  740px,\n    desktop: 980px,\n    wide:    1300px\n) !default;\n\n/// Static breakpoint (for fixed-width layouts)\n///\n/// Define the breakpoint from $mq-breakpoints that should\n/// be used as the target width for the fixed-width layout\n/// (i.e. when $mq-responsive is set to 'false') in a old-ie.scss\n///\n/// @example scss\n///  // tablet-only.scss\n///  //\n///  // Ignore all styles above tablet breakpoint,\n///  // and fix the styles (e.g. layout) at tablet width\n///  $mq-responsive: false;\n///  $mq-static-breakpoint: tablet;\n///  @import 'main'; // @media queries in this file will be rasterized up to tablet\n///                   // larger breakpoints will be ignored\n///\n/// @type String\n/// @link https://github.com/sass-mq/sass-mq#adding-custom-breakpoints Full documentation and examples\n$mq-static-breakpoint: desktop !default;\n\n/// Show breakpoints in the top right corner\n///\n/// If you want to display the currently active breakpoint in the top\n/// right corner of your site during development, add the breakpoints\n/// to this list, ordered by width, e.g. (mobile, tablet, desktop).\n///\n/// @type map\n$mq-show-breakpoints: () !default;\n\n/// Customize the media type (e.g. `@media screen` or `@media print`)\n/// By default sass-mq uses an \"all\" media type (`@media all and â¦`)\n///\n/// @type String\n/// @link https://github.com/sass-mq/sass-mq#changing-media-type Full documentation and examples\n$mq-media-type: all !default;\n\n/// Convert pixels to ems\n///\n/// @param {Number} $px - value to convert\n/// @param {Number} $base-font-size ($mq-base-font-size) - `<body>` font size\n///\n/// @example scss\n///  $font-size-in-ems: mq-px2em(16px);\n///  p { font-size: mq-px2em(16px); }\n///\n/// @requires $mq-base-font-size\n/// @returns {Number}\n@function mq-px2em($px, $base-font-size: $mq-base-font-size) {\n    @if unitless($px) {\n        @warn \"Assuming #{$px} to be in pixels, attempting to convert it into pixels.\";\n        @return mq-px2em($px * 1px, $base-font-size);\n    } @else if unit($px) == em {\n        @return $px;\n    }\n    @return ($px / $base-font-size) * 1em;\n}\n\n/// Get a breakpoint's width\n///\n/// @param {String} $name - Name of the breakpoint. One of $mq-breakpoints\n///\n/// @example scss\n///  $tablet-width: mq-get-breakpoint-width(tablet);\n///  @media (min-width: mq-get-breakpoint-width(desktop)) {}\n///\n/// @requires {Variable} $mq-breakpoints\n///\n/// @returns {Number} Value in pixels\n@function mq-get-breakpoint-width($name, $breakpoints: $mq-breakpoints) {\n    @if map-has-key($breakpoints, $name) {\n        @return map-get($breakpoints, $name);\n    } @else {\n        @warn \"Breakpoint #{$name} wasn't found in $breakpoints.\";\n    }\n}\n\n/// Media Query mixin\n///\n/// @param {String | Boolean} $from (false) - One of $mq-breakpoints\n/// @param {String | Boolean} $until (false) - One of $mq-breakpoints\n/// @param {String | Boolean} $and (false) - Additional media query parameters\n/// @param {String} $media-type ($mq-media-type) - Media type: screen, printâ¦\n///\n/// @ignore Undocumented API, for advanced use only:\n/// @ignore @param {Map} $breakpoints ($mq-breakpoints)\n/// @ignore @param {String} $static-breakpoint ($mq-static-breakpoint)\n///\n/// @content styling rules, wrapped into a @media query when $responsive is true\n///\n/// @requires {Variable} $mq-media-type\n/// @requires {Variable} $mq-breakpoints\n/// @requires {Variable} $mq-static-breakpoint\n/// @requires {function} mq-px2em\n/// @requires {function} mq-get-breakpoint-width\n///\n/// @link https://github.com/sass-mq/sass-mq#responsive-mode-on-default Full documentation and examples\n///\n/// @example scss\n///  .element {\n///    @include mq($from: mobile) {\n///      color: red;\n///    }\n///    @include mq($until: tablet) {\n///      color: blue;\n///    }\n///    @include mq(mobile, tablet) {\n///      color: green;\n///    }\n///    @include mq($from: tablet, $and: '(orientation: landscape)') {\n///      color: teal;\n///    }\n///    @include mq(950px) {\n///      color: hotpink;\n///    }\n///    @include mq(tablet, $media-type: screen) {\n///      color: hotpink;\n///    }\n///    // Advanced use:\n///    $my-breakpoints: (L: 900px, XL: 1200px);\n///    @include mq(L, $breakpoints: $my-breakpoints, $static-breakpoint: L) {\n///      color: hotpink;\n///    }\n///  }\n@mixin mq(\n    $from: false,\n    $until: false,\n    $and: false,\n    $media-type: $mq-media-type,\n    $breakpoints: $mq-breakpoints,\n    $responsive: $mq-responsive,\n    $static-breakpoint: $mq-static-breakpoint\n) {\n    $min-width: 0;\n    $max-width: 0;\n    $media-query: '';\n\n    // From: this breakpoint (inclusive)\n    @if $from {\n        @if type-of($from) == number {\n            $min-width: mq-px2em($from);\n        } @else {\n            $min-width: mq-px2em(mq-get-breakpoint-width($from, $breakpoints));\n        }\n    }\n\n    // Until: that breakpoint (exclusive)\n    @if $until {\n        @if type-of($until) == number {\n            $max-width: mq-px2em($until);\n        } @else {\n            $max-width: mq-px2em(mq-get-breakpoint-width($until, $breakpoints)) - .01em;\n        }\n    }\n\n    // Responsive support is disabled, rasterize the output outside @media blocks\n    // The browser will rely on the cascade itself.\n    @if $responsive == false {\n        $static-breakpoint-width: mq-get-breakpoint-width($static-breakpoint, $breakpoints);\n        $target-width: mq-px2em($static-breakpoint-width);\n\n        // Output only rules that start at or span our target width\n        @if (\n            $and == false\n            and $min-width <= $target-width\n            and (\n                $until == false or $max-width >= $target-width\n            )\n        ) {\n            @content;\n        }\n    }\n\n    // Responsive support is enabled, output rules inside @media queries\n    @else {\n        @if $min-width != 0 { $media-query: '#{$media-query} and (min-width: #{$min-width})'; }\n        @if $max-width != 0 { $media-query: '#{$media-query} and (max-width: #{$max-width})'; }\n        @if $and            { $media-query: '#{$media-query} and #{$and}'; }\n\n        // Remove unnecessary media query prefix 'all and '\n        @if ($media-type == 'all' and $media-query != '') {\n            $media-type: '';\n            $media-query: str-slice(unquote($media-query), 6);\n        }\n\n        @media #{$media-type + $media-query} {\n            @content;\n        }\n    }\n}\n\n/// Add a breakpoint\n///\n/// @param {String} $name - Name of the breakpoint\n/// @param {Number} $width - Width of the breakpoint\n///\n/// @requires {Variable} $mq-breakpoints\n///\n/// @example scss\n///  @include mq-add-breakpoint(tvscreen, 1920px);\n///  @include mq(tvscreen) {}\n@mixin mq-add-breakpoint($name, $width) {\n    $new-breakpoint: ($name: $width);\n    $mq-breakpoints: map-merge($mq-breakpoints, $new-breakpoint) !global;\n}\n\n/// Show the active breakpoint in the top right corner of the viewport\n/// @link https://github.com/sass-mq/sass-mq#seeing-the-currently-active-breakpoint\n///\n/// @param {List} $show-breakpoints ($mq-show-breakpoints) - List of breakpoints to show in the top right corner\n/// @param {Map} $breakpoints ($mq-breakpoints) - Breakpoint names and sizes\n///\n/// @requires {Variable} $mq-breakpoints\n/// @requires {Variable} $mq-show-breakpoints\n///\n/// @example scss\n///  // Show breakpoints using global settings\n///  @include mq-show-breakpoints;\n///\n///  // Show breakpoints using custom settings\n///  @include mq-show-breakpoints((L, XL), (S: 300px, L: 800px, XL: 1200px));\n@mixin mq-show-breakpoints($show-breakpoints: $mq-show-breakpoints, $breakpoints: $mq-breakpoints) {\n    body:before {\n        background-color: #FCF8E3;\n        border-bottom: 1px solid #FBEED5;\n        border-left: 1px solid #FBEED5;\n        color: #C09853;\n        font: small-caption;\n        padding: 3px 6px;\n        pointer-events: none;\n        position: fixed;\n        right: 0;\n        top: 0;\n        z-index: 100;\n\n        // Loop through the breakpoints that should be shown\n        @each $show-breakpoint in $show-breakpoints {\n            $width: mq-get-breakpoint-width($show-breakpoint, $breakpoints);\n            @include mq($show-breakpoint, $breakpoints: $breakpoints) {\n                content: \"#{$show-breakpoint} â¥ #{$width} (#{mq-px2em($width)})\";\n            }\n        }\n    }\n}\n\n@if length($mq-show-breakpoints) > 0 {\n    @include mq-show-breakpoints;\n}\n","// ==========================================================================\r\n// Mixins and functions\r\n//\r\n// Note: always put function at the beginning of the sub-section\r\n// ==========================================================================\r\n\r\n@import \"globals\";\r\n@import \"fonts\";\r\n@import \"sass-mq/mq\";\r\n\r\n// Generic\r\n// ==========================================================================\r\n\r\n@function perc($width, $container-width) {\r\n    @return percentage($width / $container-width);\r\n}\r\n\r\n@function strip-units($value) {\r\n    @return $value / ($value * 0 + 1);\r\n}\r\n\r\n@function z-index($level: 'base') {\r\n    @return map-get($layers, $level);\r\n}\r\n\r\n@function vw($width, $viewport-reference-width: $viewport-width) {\r\n    @return (strip-units($width) / strip-units($viewport-reference-width)) * 100 + vw;\r\n}\r\n\r\n@function vh($height, $viewport-reference-height: $viewport-height) {\r\n    @return (strip-units($height) / strip-units($viewport-reference-height)) * 100 + vh;\r\n}\r\n\r\n\r\n// Elements\r\n// ==========================================================================\r\n\r\n@mixin boost-performance ($translate: true) {\r\n    backface-visibility: hidden;\r\n    transform-style: preserve-3d;\r\n    @if ($translate) {\r\n        transform: translate3d(0, 0, 0);\r\n        will-change: transform;\r\n    }\r\n}\r\n\r\n@mixin clearfix {\r\n\r\n    &::before,\r\n    &::after {\r\n        display: table;\r\n        content: \" \";\r\n    }\r\n\r\n    &::after {\r\n        clear: both;\r\n    }\r\n}\r\n\r\n@mixin img-responsive($display: block) {\r\n    display: $display;\r\n    max-width: 100%;\r\n    height: auto;\r\n}\r\n\r\n//see https://github.com/tinganho/compass-placeholder\r\n@mixin placeholder {\r\n\r\n    &::-webkit-input-placeholder {\r\n        @content;\r\n    }\r\n\r\n    &:-moz-placeholder {\r\n        @content;\r\n    }\r\n\r\n    &::-moz-placeholder {\r\n        @content;\r\n    }\r\n\r\n    &:-ms-input-placeholder {\r\n        @content;\r\n    }\r\n}\r\n\r\n@mixin classed-headings($headings...) {\r\n    @if length($headings) == 0 {\r\n        $headings: map-keys($font-sizes-headings);\r\n    }\r\n    $selectors: ();\r\n    @each $i in $headings {\r\n        $current-heading: nth($headings, $i);\r\n        $selector: unquote(\"h#{$current-heading}, .h#{$current-heading}\");\r\n        $selectors: append($selectors, $selector, comma);\r\n    }\r\n\r\n    #{$selectors} {\r\n        @content;\r\n    }\r\n}\r\n\r\n\r\n\r\n// Typography\r\n//\r\n// ==========================================================================\r\n\r\n@function em($pixels, $context: $font-size-default) {\r\n    @if (unitless($pixels)) {\r\n        $pixels: $pixels * 1px;\r\n    }\r\n\r\n    @if (unitless($context)) {\r\n        $context: $context * 1px;\r\n    }\r\n\r\n    @return #{$pixels / $context}em;\r\n}\r\n\r\n@function rem($pixels) {\r\n    @if (unitless($pixels)) {\r\n        $pixels: $pixels * 1px;\r\n    }\r\n    @return #{$pixels / $font-size-default}rem;\r\n}\r\n\r\n\r\n@function font-size($size, $rem: true) {\r\n    $result: $size;\r\n    @if map-has-key($font-sizes, $size) {\r\n        $result: map-get($font-sizes, $size);\r\n    }\r\n\r\n    @if $rem == true {\r\n        @return rem($result);\r\n    }\r\n\r\n    @return $result;\r\n}\r\n\r\n@function font-weight($weight) {\r\n    @if map-has-key($font-weights, $weight) {\r\n        @return map-get($font-weights, $weight);\r\n    } @else {\r\n        @warn \"Weight #{$weight} undefined\";\r\n    }\r\n}\r\n\r\n@function line-height($size, $context: m) {\r\n    $context-size: font-size($context, false);\r\n    @return em($size, $context-size);\r\n}\r\n\r\n\r\n@mixin text-ellipsis {\r\n    overflow: hidden;\r\n    white-space: nowrap;\r\n    text-overflow: ellipsis;\r\n}\r\n\r\n@mixin visually-hidden {\r\n    position: absolute;\r\n    overflow: hidden;\r\n    clip: rect(0 0 0 0);\r\n    width: 1px;\r\n    height: 1px;\r\n    margin: -1px;\r\n    padding: 0;\r\n    border: 0;\r\n}\r\n\r\n@mixin font-heading() {\r\n    margin-bottom: 0.7em;\r\n    font-family: $font-family-sans;\r\n    font-size: font-size(20px);\r\n    font-weight: font-weight(bold);\r\n\r\n    @include mq(tablet-landscape) {\r\n        font-size: font-size(22px);\r\n    }\r\n}\r\n\r\n@mixin font-content() {\r\n    font-size: font-size(16px);\r\n    font-weight: font-weight(regular);\r\n\r\n    @include mq(tablet-landscape) {\r\n        font-size: font-size(18px);\r\n    }\r\n}\r\n\r\n@mixin responsive-typography($font-min, $font-max, $breakpoint-min, $breakpoint-max) {\r\n    //https://www.smashingmagazine.com/2016/05/fluid-typography/\r\n\r\n    $font-diff: ($font-max - $font-min);\r\n    $breakpoint-diff: ($breakpoint-max - $breakpoint-min);\r\n    $font-scale: $font-diff / $breakpoint-diff;\r\n    $base-font-size: percentage($font-min / 16px);\r\n    $base-font-size-em: em($font-min, 16px);\r\n\r\n    // https://zellwk.com/blog/viewport-based-typography/\r\n    font-size: calc(#{$base-font-size-em} + (#{strip-units($font-diff)} * (100vw - #{$breakpoint-min}) / #{strip-units($breakpoint-diff)}));\r\n    //font-size: calc(#{$base-font-size} + (#{strip-units($font-diff)} * (100vw - #{$breakpoint-min}) / #{strip-units($breakpoint-diff)}));\r\n}\r\n\r\n\r\n@mixin a11y-anchor-focus() {\r\n    outline: 2px solid rgba($color-link, 0);\r\n    outline-offset: 4px;\r\n    transition: outline-offset 0.2s ease, color 0.2s ease;\r\n\r\n    &:focus {\r\n        color: $color-link;\r\n        outline-color: rgba($color-link, 0.2);\r\n        outline-offset: 2px;\r\n\r\n        &::before,\r\n        &::after {\r\n            opacity: 0;\r\n        }\r\n    }\r\n}"],"sourceRoot":""}]);
+exports.push([module.i, "\n.avatar__root---3U2ZP {\n  position: relative;\n  z-index: -1;\n  margin: 0;\n}\n@media (min-width: 64em) {\n.avatar__root---3U2ZP {\n    -webkit-transform: translate(-16.6666666667%, -16.6666666667%);\n            transform: translate(-16.6666666667%, -16.6666666667%);\n}\n}\n@media not print {\n.canvas .avatar__fallback---23Ydd {\n    position: absolute;\n    overflow: hidden;\n    clip: rect(0 0 0 0);\n    width: 1px;\n    height: 1px;\n    margin: -1px;\n    padding: 0;\n    border: 0;\n}\n}\n.no-canvas .avatar__canvas---216dU {\n  display: none;\n}\n@media print {\n.avatar__canvas---216dU {\n    display: none;\n}\n}\n\n/*\r\n.img {\r\n    transform: scale(1.05);\r\n    transform-origin: center center;\r\n    transition: transform 0.2s ease-out 0.2s;\r\n    will-change: transform;\r\n\r\n    .root:hover & {\r\n        transform: scale(1.05) translate(1.5%, 0);\r\n        transition-delay: 0s;\r\n    }\r\n}\r\n*/\n\n/*\r\n.shadow {\r\n    position: absolute;\r\n    top: 0;\r\n    left: 0;\r\n    z-index: z-index(behind);\r\n    opacity: 0.5;\r\n    width: 100%;\r\n    height: 100%;\r\n    fill: $color-link;\r\n    transform: scale(0.95);\r\n    transition: transform 0.3s ease-out 0s;\r\n\r\n    :global(.touchevents) &,\r\n    .root:hover & {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n\r\n    @media print {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n}\r\n*/\n\n", "", {"version":3,"sources":["C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/avatar.scss","C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/avatar.scss","C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/node_modules/sass-mq/_mq.scss","C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/Avatar/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/styles/_mixins.scss"],"names":[],"mappings":";AAKA;EACI,mBAAA;EACA,YAAA;EACA,UAAA;CCJH;AC4NO;AF3NR;IAQQ,+DAAA;YAAA,uDAAA;CCJL;CACF;ADUG;AAEI;IG2IJ,mBAAA;IACA,iBAAA;IACA,oBAAA;IACA,WAAA;IACA,YAAA;IACA,aAAA;IACA,WAAA;IACA,UAAA;CFlJD;CACF;ADQuB;EAChB,cAAA;CCLP;ADQG;AANJ;IAOQ,cAAA;CCJL;CACF;;ADOD;;;;;;;;;;;;ECOE;;ADOF;;;;;;;;;;;;;;;;;;;;;;;;ECmBE","file":"avatar.scss","sourcesContent":["@import \"globals\";\r\n@import \"mixins\";\r\n@import \"colors\";\r\n@import \"sass-mq/mq\";\r\n\r\n.root {\r\n    position: relative;\r\n    z-index: -1;\r\n    margin: 0;\r\n\r\n    $translate: percentage(((600 - 400) / 2) / -600);\r\n\r\n    @include mq('tablet-landscape') {\r\n        transform: translate($translate, $translate);\r\n    }\r\n}\r\n\r\n.fallback {\r\n\r\n\r\n    @media not print {\r\n\r\n        :global(.canvas) & {\r\n            @include visually-hidden;\r\n        }\r\n    }\r\n}\r\n\r\n\r\n.canvas {\r\n\r\n    :global(.no-canvas) & {\r\n        display: none;\r\n    }\r\n\r\n    @media print {\r\n        display: none;\r\n    }\r\n}\r\n\r\n/*\r\n.img {\r\n    transform: scale(1.05);\r\n    transform-origin: center center;\r\n    transition: transform 0.2s ease-out 0.2s;\r\n    will-change: transform;\r\n\r\n    .root:hover & {\r\n        transform: scale(1.05) translate(1.5%, 0);\r\n        transition-delay: 0s;\r\n    }\r\n}\r\n*/\r\n\r\n/*\r\n.shadow {\r\n    position: absolute;\r\n    top: 0;\r\n    left: 0;\r\n    z-index: z-index(behind);\r\n    opacity: 0.5;\r\n    width: 100%;\r\n    height: 100%;\r\n    fill: $color-link;\r\n    transform: scale(0.95);\r\n    transition: transform 0.3s ease-out 0s;\r\n\r\n    :global(.touchevents) &,\r\n    .root:hover & {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n\r\n    @media print {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n}\r\n*/\r\n",".root {\n  position: relative;\n  z-index: -1;\n  margin: 0;\n}\n\n@media (min-width: 64em) {\n  .root {\n    transform: translate(-16.6666666667%, -16.6666666667%);\n  }\n}\n\n@media not print {\n  :global(.canvas) .fallback {\n    position: absolute;\n    overflow: hidden;\n    clip: rect(0 0 0 0);\n    width: 1px;\n    height: 1px;\n    margin: -1px;\n    padding: 0;\n    border: 0;\n  }\n}\n\n:global(.no-canvas) .canvas {\n  display: none;\n}\n\n@media print {\n  .canvas {\n    display: none;\n  }\n}\n\n/*\r\n.img {\r\n    transform: scale(1.05);\r\n    transform-origin: center center;\r\n    transition: transform 0.2s ease-out 0.2s;\r\n    will-change: transform;\r\n\r\n    .root:hover & {\r\n        transform: scale(1.05) translate(1.5%, 0);\r\n        transition-delay: 0s;\r\n    }\r\n}\r\n*/\n\n/*\r\n.shadow {\r\n    position: absolute;\r\n    top: 0;\r\n    left: 0;\r\n    z-index: z-index(behind);\r\n    opacity: 0.5;\r\n    width: 100%;\r\n    height: 100%;\r\n    fill: $color-link;\r\n    transform: scale(0.95);\r\n    transition: transform 0.3s ease-out 0s;\r\n\r\n    :global(.touchevents) &,\r\n    .root:hover & {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n\r\n    @media print {\r\n        transform: translate(10%, 0);\r\n        transition-delay: 0.15s;\r\n    }\r\n}\r\n*/\n\n","@charset \"UTF-8\"; // Fixes an issue where Ruby locale is not set properly\n                  // See https://github.com/sass-mq/sass-mq/pull/10\n\n/// Base font size on the `<body>` element\n/// @type Number (unit)\n$mq-base-font-size: 16px !default;\n\n/// Responsive mode\n///\n/// Set to `false` to enable support for browsers that do not support @media queries,\n/// (IE <= 8, Firefox <= 3, Opera <= 9)\n///\n/// You could create a stylesheet served exclusively to older browsers,\n/// where @media queries are rasterized\n///\n/// @example scss\n///  // old-ie.scss\n///  $mq-responsive: false;\n///  @import 'main'; // @media queries in this file will be rasterized up to $mq-static-breakpoint\n///                   // larger breakpoints will be ignored\n///\n/// @type Boolean\n/// @link https://github.com/sass-mq/sass-mq#responsive-mode-off Disabled responsive mode documentation\n$mq-responsive: true !default;\n\n/// Breakpoint list\n///\n/// Name your breakpoints in a way that creates a ubiquitous language\n/// across team members. It will improve communication between\n/// stakeholders, designers, developers, and testers.\n///\n/// @type Map\n/// @link https://github.com/sass-mq/sass-mq#seeing-the-currently-active-breakpoint Full documentation and examples\n$mq-breakpoints: (\n    mobile:  320px,\n    tablet:  740px,\n    desktop: 980px,\n    wide:    1300px\n) !default;\n\n/// Static breakpoint (for fixed-width layouts)\n///\n/// Define the breakpoint from $mq-breakpoints that should\n/// be used as the target width for the fixed-width layout\n/// (i.e. when $mq-responsive is set to 'false') in a old-ie.scss\n///\n/// @example scss\n///  // tablet-only.scss\n///  //\n///  // Ignore all styles above tablet breakpoint,\n///  // and fix the styles (e.g. layout) at tablet width\n///  $mq-responsive: false;\n///  $mq-static-breakpoint: tablet;\n///  @import 'main'; // @media queries in this file will be rasterized up to tablet\n///                   // larger breakpoints will be ignored\n///\n/// @type String\n/// @link https://github.com/sass-mq/sass-mq#adding-custom-breakpoints Full documentation and examples\n$mq-static-breakpoint: desktop !default;\n\n/// Show breakpoints in the top right corner\n///\n/// If you want to display the currently active breakpoint in the top\n/// right corner of your site during development, add the breakpoints\n/// to this list, ordered by width, e.g. (mobile, tablet, desktop).\n///\n/// @type map\n$mq-show-breakpoints: () !default;\n\n/// Customize the media type (e.g. `@media screen` or `@media print`)\n/// By default sass-mq uses an \"all\" media type (`@media all and â¦`)\n///\n/// @type String\n/// @link https://github.com/sass-mq/sass-mq#changing-media-type Full documentation and examples\n$mq-media-type: all !default;\n\n/// Convert pixels to ems\n///\n/// @param {Number} $px - value to convert\n/// @param {Number} $base-font-size ($mq-base-font-size) - `<body>` font size\n///\n/// @example scss\n///  $font-size-in-ems: mq-px2em(16px);\n///  p { font-size: mq-px2em(16px); }\n///\n/// @requires $mq-base-font-size\n/// @returns {Number}\n@function mq-px2em($px, $base-font-size: $mq-base-font-size) {\n    @if unitless($px) {\n        @warn \"Assuming #{$px} to be in pixels, attempting to convert it into pixels.\";\n        @return mq-px2em($px * 1px, $base-font-size);\n    } @else if unit($px) == em {\n        @return $px;\n    }\n    @return ($px / $base-font-size) * 1em;\n}\n\n/// Get a breakpoint's width\n///\n/// @param {String} $name - Name of the breakpoint. One of $mq-breakpoints\n///\n/// @example scss\n///  $tablet-width: mq-get-breakpoint-width(tablet);\n///  @media (min-width: mq-get-breakpoint-width(desktop)) {}\n///\n/// @requires {Variable} $mq-breakpoints\n///\n/// @returns {Number} Value in pixels\n@function mq-get-breakpoint-width($name, $breakpoints: $mq-breakpoints) {\n    @if map-has-key($breakpoints, $name) {\n        @return map-get($breakpoints, $name);\n    } @else {\n        @warn \"Breakpoint #{$name} wasn't found in $breakpoints.\";\n    }\n}\n\n/// Media Query mixin\n///\n/// @param {String | Boolean} $from (false) - One of $mq-breakpoints\n/// @param {String | Boolean} $until (false) - One of $mq-breakpoints\n/// @param {String | Boolean} $and (false) - Additional media query parameters\n/// @param {String} $media-type ($mq-media-type) - Media type: screen, printâ¦\n///\n/// @ignore Undocumented API, for advanced use only:\n/// @ignore @param {Map} $breakpoints ($mq-breakpoints)\n/// @ignore @param {String} $static-breakpoint ($mq-static-breakpoint)\n///\n/// @content styling rules, wrapped into a @media query when $responsive is true\n///\n/// @requires {Variable} $mq-media-type\n/// @requires {Variable} $mq-breakpoints\n/// @requires {Variable} $mq-static-breakpoint\n/// @requires {function} mq-px2em\n/// @requires {function} mq-get-breakpoint-width\n///\n/// @link https://github.com/sass-mq/sass-mq#responsive-mode-on-default Full documentation and examples\n///\n/// @example scss\n///  .element {\n///    @include mq($from: mobile) {\n///      color: red;\n///    }\n///    @include mq($until: tablet) {\n///      color: blue;\n///    }\n///    @include mq(mobile, tablet) {\n///      color: green;\n///    }\n///    @include mq($from: tablet, $and: '(orientation: landscape)') {\n///      color: teal;\n///    }\n///    @include mq(950px) {\n///      color: hotpink;\n///    }\n///    @include mq(tablet, $media-type: screen) {\n///      color: hotpink;\n///    }\n///    // Advanced use:\n///    $my-breakpoints: (L: 900px, XL: 1200px);\n///    @include mq(L, $breakpoints: $my-breakpoints, $static-breakpoint: L) {\n///      color: hotpink;\n///    }\n///  }\n@mixin mq(\n    $from: false,\n    $until: false,\n    $and: false,\n    $media-type: $mq-media-type,\n    $breakpoints: $mq-breakpoints,\n    $responsive: $mq-responsive,\n    $static-breakpoint: $mq-static-breakpoint\n) {\n    $min-width: 0;\n    $max-width: 0;\n    $media-query: '';\n\n    // From: this breakpoint (inclusive)\n    @if $from {\n        @if type-of($from) == number {\n            $min-width: mq-px2em($from);\n        } @else {\n            $min-width: mq-px2em(mq-get-breakpoint-width($from, $breakpoints));\n        }\n    }\n\n    // Until: that breakpoint (exclusive)\n    @if $until {\n        @if type-of($until) == number {\n            $max-width: mq-px2em($until);\n        } @else {\n            $max-width: mq-px2em(mq-get-breakpoint-width($until, $breakpoints)) - .01em;\n        }\n    }\n\n    // Responsive support is disabled, rasterize the output outside @media blocks\n    // The browser will rely on the cascade itself.\n    @if $responsive == false {\n        $static-breakpoint-width: mq-get-breakpoint-width($static-breakpoint, $breakpoints);\n        $target-width: mq-px2em($static-breakpoint-width);\n\n        // Output only rules that start at or span our target width\n        @if (\n            $and == false\n            and $min-width <= $target-width\n            and (\n                $until == false or $max-width >= $target-width\n            )\n        ) {\n            @content;\n        }\n    }\n\n    // Responsive support is enabled, output rules inside @media queries\n    @else {\n        @if $min-width != 0 { $media-query: '#{$media-query} and (min-width: #{$min-width})'; }\n        @if $max-width != 0 { $media-query: '#{$media-query} and (max-width: #{$max-width})'; }\n        @if $and            { $media-query: '#{$media-query} and #{$and}'; }\n\n        // Remove unnecessary media query prefix 'all and '\n        @if ($media-type == 'all' and $media-query != '') {\n            $media-type: '';\n            $media-query: str-slice(unquote($media-query), 6);\n        }\n\n        @media #{$media-type + $media-query} {\n            @content;\n        }\n    }\n}\n\n/// Add a breakpoint\n///\n/// @param {String} $name - Name of the breakpoint\n/// @param {Number} $width - Width of the breakpoint\n///\n/// @requires {Variable} $mq-breakpoints\n///\n/// @example scss\n///  @include mq-add-breakpoint(tvscreen, 1920px);\n///  @include mq(tvscreen) {}\n@mixin mq-add-breakpoint($name, $width) {\n    $new-breakpoint: ($name: $width);\n    $mq-breakpoints: map-merge($mq-breakpoints, $new-breakpoint) !global;\n}\n\n/// Show the active breakpoint in the top right corner of the viewport\n/// @link https://github.com/sass-mq/sass-mq#seeing-the-currently-active-breakpoint\n///\n/// @param {List} $show-breakpoints ($mq-show-breakpoints) - List of breakpoints to show in the top right corner\n/// @param {Map} $breakpoints ($mq-breakpoints) - Breakpoint names and sizes\n///\n/// @requires {Variable} $mq-breakpoints\n/// @requires {Variable} $mq-show-breakpoints\n///\n/// @example scss\n///  // Show breakpoints using global settings\n///  @include mq-show-breakpoints;\n///\n///  // Show breakpoints using custom settings\n///  @include mq-show-breakpoints((L, XL), (S: 300px, L: 800px, XL: 1200px));\n@mixin mq-show-breakpoints($show-breakpoints: $mq-show-breakpoints, $breakpoints: $mq-breakpoints) {\n    body:before {\n        background-color: #FCF8E3;\n        border-bottom: 1px solid #FBEED5;\n        border-left: 1px solid #FBEED5;\n        color: #C09853;\n        font: small-caption;\n        padding: 3px 6px;\n        pointer-events: none;\n        position: fixed;\n        right: 0;\n        top: 0;\n        z-index: 100;\n\n        // Loop through the breakpoints that should be shown\n        @each $show-breakpoint in $show-breakpoints {\n            $width: mq-get-breakpoint-width($show-breakpoint, $breakpoints);\n            @include mq($show-breakpoint, $breakpoints: $breakpoints) {\n                content: \"#{$show-breakpoint} â¥ #{$width} (#{mq-px2em($width)})\";\n            }\n        }\n    }\n}\n\n@if length($mq-show-breakpoints) > 0 {\n    @include mq-show-breakpoints;\n}\n","// ==========================================================================\r\n// Mixins and functions\r\n//\r\n// Note: always put function at the beginning of the sub-section\r\n// ==========================================================================\r\n\r\n@import \"globals\";\r\n@import \"fonts\";\r\n@import \"sass-mq/mq\";\r\n\r\n// Generic\r\n// ==========================================================================\r\n\r\n@function perc($width, $container-width) {\r\n    @return percentage($width / $container-width);\r\n}\r\n\r\n@function strip-units($value) {\r\n    @return $value / ($value * 0 + 1);\r\n}\r\n\r\n@function z-index($level: 'base') {\r\n    @return map-get($layers, $level);\r\n}\r\n\r\n@function vw($width, $viewport-reference-width: $viewport-width) {\r\n    @return (strip-units($width) / strip-units($viewport-reference-width)) * 100 + vw;\r\n}\r\n\r\n@function vh($height, $viewport-reference-height: $viewport-height) {\r\n    @return (strip-units($height) / strip-units($viewport-reference-height)) * 100 + vh;\r\n}\r\n\r\n\r\n// Elements\r\n// ==========================================================================\r\n\r\n@mixin boost-performance ($translate: true) {\r\n    backface-visibility: hidden;\r\n    transform-style: preserve-3d;\r\n    @if ($translate) {\r\n        transform: translate3d(0, 0, 0);\r\n        will-change: transform;\r\n    }\r\n}\r\n\r\n@mixin clearfix {\r\n\r\n    &::before,\r\n    &::after {\r\n        display: table;\r\n        content: \" \";\r\n    }\r\n\r\n    &::after {\r\n        clear: both;\r\n    }\r\n}\r\n\r\n@mixin img-responsive($display: block) {\r\n    display: $display;\r\n    max-width: 100%;\r\n    height: auto;\r\n}\r\n\r\n//see https://github.com/tinganho/compass-placeholder\r\n@mixin placeholder {\r\n\r\n    &::-webkit-input-placeholder {\r\n        @content;\r\n    }\r\n\r\n    &:-moz-placeholder {\r\n        @content;\r\n    }\r\n\r\n    &::-moz-placeholder {\r\n        @content;\r\n    }\r\n\r\n    &:-ms-input-placeholder {\r\n        @content;\r\n    }\r\n}\r\n\r\n@mixin classed-headings($headings...) {\r\n    @if length($headings) == 0 {\r\n        $headings: map-keys($font-sizes-headings);\r\n    }\r\n    $selectors: ();\r\n    @each $i in $headings {\r\n        $current-heading: nth($headings, $i);\r\n        $selector: unquote(\"h#{$current-heading}, .h#{$current-heading}\");\r\n        $selectors: append($selectors, $selector, comma);\r\n    }\r\n\r\n    #{$selectors} {\r\n        @content;\r\n    }\r\n}\r\n\r\n\r\n\r\n// Typography\r\n//\r\n// ==========================================================================\r\n\r\n@function em($pixels, $context: $font-size-default) {\r\n    @if (unitless($pixels)) {\r\n        $pixels: $pixels * 1px;\r\n    }\r\n\r\n    @if (unitless($context)) {\r\n        $context: $context * 1px;\r\n    }\r\n\r\n    @return #{$pixels / $context}em;\r\n}\r\n\r\n@function rem($pixels) {\r\n    @if (unitless($pixels)) {\r\n        $pixels: $pixels * 1px;\r\n    }\r\n    @return #{$pixels / $font-size-default}rem;\r\n}\r\n\r\n\r\n@function font-size($size, $rem: true) {\r\n    $result: $size;\r\n    @if map-has-key($font-sizes, $size) {\r\n        $result: map-get($font-sizes, $size);\r\n    }\r\n\r\n    @if $rem == true {\r\n        @return rem($result);\r\n    }\r\n\r\n    @return $result;\r\n}\r\n\r\n@function font-weight($weight) {\r\n    @if map-has-key($font-weights, $weight) {\r\n        @return map-get($font-weights, $weight);\r\n    } @else {\r\n        @warn \"Weight #{$weight} undefined\";\r\n    }\r\n}\r\n\r\n@function line-height($size, $context: m) {\r\n    $context-size: font-size($context, false);\r\n    @return em($size, $context-size);\r\n}\r\n\r\n\r\n@mixin text-ellipsis {\r\n    overflow: hidden;\r\n    white-space: nowrap;\r\n    text-overflow: ellipsis;\r\n}\r\n\r\n@mixin visually-hidden {\r\n    position: absolute;\r\n    overflow: hidden;\r\n    clip: rect(0 0 0 0);\r\n    width: 1px;\r\n    height: 1px;\r\n    margin: -1px;\r\n    padding: 0;\r\n    border: 0;\r\n}\r\n\r\n@mixin font-heading() {\r\n    margin-bottom: 0.7em;\r\n    font-family: $font-family-sans;\r\n    font-size: font-size(20px);\r\n    font-weight: font-weight(bold);\r\n\r\n    @include mq(tablet-landscape) {\r\n        font-size: font-size(22px);\r\n    }\r\n}\r\n\r\n@mixin font-content() {\r\n    font-size: font-size(16px);\r\n    font-weight: font-weight(regular);\r\n\r\n    @include mq(tablet-landscape) {\r\n        font-size: font-size(18px);\r\n    }\r\n}\r\n\r\n@mixin responsive-typography($font-min, $font-max, $breakpoint-min, $breakpoint-max) {\r\n    //https://www.smashingmagazine.com/2016/05/fluid-typography/\r\n\r\n    $font-diff: ($font-max - $font-min);\r\n    $breakpoint-diff: ($breakpoint-max - $breakpoint-min);\r\n    $font-scale: $font-diff / $breakpoint-diff;\r\n    $base-font-size: percentage($font-min / 16px);\r\n    $base-font-size-em: em($font-min, 16px);\r\n\r\n    // https://zellwk.com/blog/viewport-based-typography/\r\n    font-size: calc(#{$base-font-size-em} + (#{strip-units($font-diff)} * (100vw - #{$breakpoint-min}) / #{strip-units($breakpoint-diff)}));\r\n    //font-size: calc(#{$base-font-size} + (#{strip-units($font-diff)} * (100vw - #{$breakpoint-min}) / #{strip-units($breakpoint-diff)}));\r\n}\r\n\r\n\r\n@mixin a11y-anchor-focus() {\r\n    outline: 2px solid rgba($color-link, 0);\r\n    outline-offset: 4px;\r\n    transition: outline-offset 0.2s ease, color 0.2s ease;\r\n\r\n    &:focus {\r\n        color: $color-link;\r\n        outline-color: rgba($color-link, 0.2);\r\n        outline-offset: 2px;\r\n\r\n        &::before,\r\n        &::after {\r\n            opacity: 0;\r\n        }\r\n    }\r\n}"],"sourceRoot":""}]);
 
 // exports
 exports.locals = {
@@ -978,7 +978,7 @@ exports.locals = {
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue":
+/***/ "./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue":
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/css-base.js")(true);
@@ -986,7 +986,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\n.pixi__root---2KOl-_0 {\n  position: fixed;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 40%;\n  z-index: -1;\n}\n.pixi__root---2KOl-_0 > canvas {\n  float: right;\n}\n@media print {\n.pixi__root---2KOl-_0 {\n    position: absolute;\n    bottom: auto;\n    left: 0;\n    opacity: 1 !important;\n    height: 29.7cm;\n}\n.pixi__root---2KOl-_0::before {\n    background-size: auto, auto;\n}\n.pixi__root---2KOl-_0::after,\n  .pixi__root---2KOl-_0 > span {\n    display: none;\n}\n}\n.pixi__root--enter---2LtDA_0 {\n  opacity: 0;\n}\n.pixi__root--enter-active---UIMzU_0 {\n  transition-delay: 1000ms;\n}\n.pixi__root--leave---35nfJ_0 {\n  opacity: 0;\n}\n\n", "", {"version":3,"sources":["C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/BgPattern/C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/BgPattern/C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/BgPattern/pixi.vue","C:/Users/User/IdeaProjects/marco.solazzi.me/app/assets/js/objects/BgPattern/pixi.vue"],"names":[],"mappings":";AAqMA;EACI,gBAAA;EACA,OAAA;EACA,SAAA;EACA,UAAA;EACA,UAAA;EACA,YAAA;CCpMH;AD8LD;EASQ,aAAA;CCnMP;ADuMD;AAEI;IACI,mBAAA;IACA,aAAA;IACA,QAAA;IACA,sBAAA;IACA,eAAA;CCrML;ADgMC;IAQQ,4BAAA;CCpMT;AD4LC;;IAaQ,cAAA;CCpMT;CACF;ADwMD;EACI,WAAA;CCrMH;ADwMD;EACI,yBAAA;CCrMH;ADwMD;EACI,WAAA;CCrMH","file":"pixi.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n@import \"globals\";\r\n@import \"sass-mq/mq\";\r\n\r\n.root {\r\n    position: fixed;\r\n    top: 0;\r\n    right: 0;\r\n    bottom: 0;\r\n    left: 40%;\r\n    z-index: -1;\r\n\r\n    > canvas {\r\n        float: right;\r\n    }\r\n}\r\n\r\n@media print {\r\n\r\n    .root {\r\n        position: absolute;\r\n        bottom: auto;\r\n        left: 0;\r\n        opacity: 1 !important;\r\n        height: 29.7cm;\r\n\r\n        &::before {\r\n            background-size: auto, auto;\r\n        }\r\n\r\n        &::after,\r\n        > span {\r\n            display: none;\r\n        }\r\n    }\r\n}\r\n\r\n.root--enter {\r\n    opacity: 0;\r\n}\r\n\r\n.root--enter-active {\r\n    transition-delay: 1000ms;\r\n}\r\n\r\n.root--leave {\r\n    opacity: 0;\r\n}\r\n",".root {\n  position: fixed;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 40%;\n  z-index: -1;\n}\n\n.root > canvas {\n  float: right;\n}\n\n@media print {\n  .root {\n    position: absolute;\n    bottom: auto;\n    left: 0;\n    opacity: 1 !important;\n    height: 29.7cm;\n  }\n\n  .root::before {\n    background-size: auto, auto;\n  }\n\n  .root::after,\n  .root > span {\n    display: none;\n  }\n}\n\n.root--enter {\n  opacity: 0;\n}\n\n.root--enter-active {\n  transition-delay: 1000ms;\n}\n\n.root--leave {\n  opacity: 0;\n}\n\n"],"sourceRoot":""}]);
+exports.push([module.i, "\n.pixi__root---2KOl-_0 {\n  position: fixed;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 40%;\n  z-index: -1;\n}\n.pixi__root---2KOl-_0 > canvas {\n  float: right;\n}\n@media print {\n.pixi__root---2KOl-_0 {\n    position: absolute;\n    bottom: auto;\n    left: 0;\n    opacity: 1 !important;\n    height: 29.7cm;\n}\n.pixi__root---2KOl-_0::before {\n    background-size: auto, auto;\n}\n.pixi__root---2KOl-_0::after,\n  .pixi__root---2KOl-_0 > span {\n    display: none;\n}\n}\n.pixi__root--enter---2LtDA_0 {\n  opacity: 0;\n}\n.pixi__root--enter-active---UIMzU_0 {\n  -webkit-transition-delay: 1000ms;\n          transition-delay: 1000ms;\n}\n.pixi__root--leave---35nfJ_0 {\n  opacity: 0;\n}\n\n", "", {"version":3,"sources":["C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/BgPattern/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/BgPattern/C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/BgPattern/pixi.vue","C:/Users/Oliver/Desktop/olishiz-marco-personal-site/app/assets/js/objects/BgPattern/pixi.vue"],"names":[],"mappings":";AAqMA;EACI,gBAAA;EACA,OAAA;EACA,SAAA;EACA,UAAA;EACA,UAAA;EACA,YAAA;CCpMH;ADsMK;EACE,aAAA;CCnMP;ADuMD;AAEI;IACI,mBAAA;IACA,aAAA;IACA,QAAA;IACA,sBAAA;IACA,eAAA;CCrML;ADuMK;IACI,4BAAA;CCpMT;AD4LC;;IAaQ,cAAA;CCpMT;CACF;ADwMD;EACI,WAAA;CCrMH;ADwMD;EACI,iCAAA;UAAA,yBAAA;CCrMH;ADwMD;EACI,WAAA;CCrMH","file":"pixi.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n@import \"globals\";\r\n@import \"sass-mq/mq\";\r\n\r\n.root {\r\n    position: fixed;\r\n    top: 0;\r\n    right: 0;\r\n    bottom: 0;\r\n    left: 40%;\r\n    z-index: -1;\r\n\r\n    > canvas {\r\n        float: right;\r\n    }\r\n}\r\n\r\n@media print {\r\n\r\n    .root {\r\n        position: absolute;\r\n        bottom: auto;\r\n        left: 0;\r\n        opacity: 1 !important;\r\n        height: 29.7cm;\r\n\r\n        &::before {\r\n            background-size: auto, auto;\r\n        }\r\n\r\n        &::after,\r\n        > span {\r\n            display: none;\r\n        }\r\n    }\r\n}\r\n\r\n.root--enter {\r\n    opacity: 0;\r\n}\r\n\r\n.root--enter-active {\r\n    transition-delay: 1000ms;\r\n}\r\n\r\n.root--leave {\r\n    opacity: 0;\r\n}\r\n",".root {\n  position: fixed;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 40%;\n  z-index: -1;\n}\n\n.root > canvas {\n  float: right;\n}\n\n@media print {\n  .root {\n    position: absolute;\n    bottom: auto;\n    left: 0;\n    opacity: 1 !important;\n    height: 29.7cm;\n  }\n\n  .root::before {\n    background-size: auto, auto;\n  }\n\n  .root::after,\n  .root > span {\n    display: none;\n  }\n}\n\n.root--enter {\n  opacity: 0;\n}\n\n.root--enter-active {\n  transition-delay: 1000ms;\n}\n\n.root--leave {\n  opacity: 0;\n}\n\n"],"sourceRoot":""}]);
 
 // exports
 exports.locals = {
@@ -1019,7 +1019,7 @@ function earcut(data, holeIndices, dim) {
         outerNode = linkedList(data, 0, outerLen, dim, true),
         triangles = [];
 
-    if (!outerNode || outerNode.next === outerNode.prev) return triangles;
+    if (!outerNode) return triangles;
 
     var minX, minY, maxX, maxY, x, y, invSize;
 
@@ -1114,7 +1114,7 @@ function earcutLinked(ear, triangles, dim, minX, minY, invSize, pass) {
 
             removeNode(ear);
 
-            // skipping the next vertex leads to less sliver triangles
+            // skipping the next vertice leads to less sliver triangles
             ear = next.next;
             stop = next.next;
 
@@ -1131,7 +1131,7 @@ function earcutLinked(ear, triangles, dim, minX, minY, invSize, pass) {
 
             // if this didn't work, try curing all small self-intersections locally
             } else if (pass === 1) {
-                ear = cureLocalIntersections(filterPoints(ear), triangles, dim);
+                ear = cureLocalIntersections(ear, triangles, dim);
                 earcutLinked(ear, triangles, dim, minX, minY, invSize, 2);
 
             // as a last resort, try splitting the remaining polygon into two
@@ -1181,36 +1181,24 @@ function isEarHashed(ear, minX, minY, invSize) {
     var minZ = zOrder(minTX, minTY, minX, minY, invSize),
         maxZ = zOrder(maxTX, maxTY, minX, minY, invSize);
 
-    var p = ear.prevZ,
-        n = ear.nextZ;
+    // first look for points inside the triangle in increasing z-order
+    var p = ear.nextZ;
 
-    // look for points inside the triangle in both directions
-    while (p && p.z >= minZ && n && n.z <= maxZ) {
+    while (p && p.z <= maxZ) {
         if (p !== ear.prev && p !== ear.next &&
             pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
             area(p.prev, p, p.next) >= 0) return false;
-        p = p.prevZ;
-
-        if (n !== ear.prev && n !== ear.next &&
-            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, n.x, n.y) &&
-            area(n.prev, n, n.next) >= 0) return false;
-        n = n.nextZ;
+        p = p.nextZ;
     }
 
-    // look for remaining points in decreasing z-order
+    // then look for points in decreasing z-order
+    p = ear.prevZ;
+
     while (p && p.z >= minZ) {
         if (p !== ear.prev && p !== ear.next &&
             pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
             area(p.prev, p, p.next) >= 0) return false;
         p = p.prevZ;
-    }
-
-    // look for remaining points in increasing z-order
-    while (n && n.z <= maxZ) {
-        if (n !== ear.prev && n !== ear.next &&
-            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, n.x, n.y) &&
-            area(n.prev, n, n.next) >= 0) return false;
-        n = n.nextZ;
     }
 
     return true;
@@ -1238,7 +1226,7 @@ function cureLocalIntersections(start, triangles, dim) {
         p = p.next;
     } while (p !== start);
 
-    return filterPoints(p);
+    return p;
 }
 
 // try splitting polygon into two and triangulate them independently
@@ -1300,9 +1288,6 @@ function eliminateHole(hole, outerNode) {
     outerNode = findHoleBridge(hole, outerNode);
     if (outerNode) {
         var b = splitPolygon(outerNode, hole);
-
-        // filter collinear points around the cuts
-        filterPoints(outerNode, outerNode.next);
         filterPoints(b, b.next);
     }
 }
@@ -1334,7 +1319,7 @@ function findHoleBridge(hole, outerNode) {
 
     if (!m) return null;
 
-    if (hx === qx) return m; // hole touches outer segment; pick leftmost endpoint
+    if (hx === qx) return m.prev; // hole touches outer segment; pick lower endpoint
 
     // look for points inside the triangle of hole point, segment intersection and endpoint;
     // if there are no points found, we have a valid connection;
@@ -1346,30 +1331,24 @@ function findHoleBridge(hole, outerNode) {
         tanMin = Infinity,
         tan;
 
-    p = m;
+    p = m.next;
 
-    do {
+    while (p !== stop) {
         if (hx >= p.x && p.x >= mx && hx !== p.x &&
                 pointInTriangle(hy < my ? hx : qx, hy, mx, my, hy < my ? qx : hx, hy, p.x, p.y)) {
 
             tan = Math.abs(hy - p.y) / (hx - p.x); // tangential
 
-            if (locallyInside(p, hole) &&
-                (tan < tanMin || (tan === tanMin && (p.x > m.x || (p.x === m.x && sectorContainsSector(m, p)))))) {
+            if ((tan < tanMin || (tan === tanMin && p.x > m.x)) && locallyInside(p, hole)) {
                 m = p;
                 tanMin = tan;
             }
         }
 
         p = p.next;
-    } while (p !== stop);
+    }
 
     return m;
-}
-
-// whether sector in vertex m contains sector in vertex p in the same coordinates
-function sectorContainsSector(m, p) {
-    return area(m.prev, m, p.prev) < 0 && area(p.next, m, m.next) < 0;
 }
 
 // interlink polygon nodes in z-order
@@ -1465,7 +1444,7 @@ function getLeftmost(start) {
     var p = start,
         leftmost = start;
     do {
-        if (p.x < leftmost.x || (p.x === leftmost.x && p.y < leftmost.y)) leftmost = p;
+        if (p.x < leftmost.x) leftmost = p;
         p = p.next;
     } while (p !== start);
 
@@ -1481,10 +1460,8 @@ function pointInTriangle(ax, ay, bx, by, cx, cy, px, py) {
 
 // check if a diagonal between two polygon nodes is valid (lies in polygon interior)
 function isValidDiagonal(a, b) {
-    return a.next.i !== b.i && a.prev.i !== b.i && !intersectsPolygon(a, b) && // dones't intersect other edges
-           (locallyInside(a, b) && locallyInside(b, a) && middleInside(a, b) && // locally visible
-            (area(a.prev, a, b.prev) || area(a, b.prev, b)) || // does not create opposite-facing sectors
-            equals(a, b) && area(a.prev, a, a.next) > 0 && area(b.prev, b, b.next) > 0); // special zero-length case
+    return a.next.i !== b.i && a.prev.i !== b.i && !intersectsPolygon(a, b) &&
+           locallyInside(a, b) && locallyInside(b, a) && middleInside(a, b);
 }
 
 // signed area of a triangle
@@ -1499,28 +1476,10 @@ function equals(p1, p2) {
 
 // check if two segments intersect
 function intersects(p1, q1, p2, q2) {
-    var o1 = sign(area(p1, q1, p2));
-    var o2 = sign(area(p1, q1, q2));
-    var o3 = sign(area(p2, q2, p1));
-    var o4 = sign(area(p2, q2, q1));
-
-    if (o1 !== o2 && o3 !== o4) return true; // general case
-
-    if (o1 === 0 && onSegment(p1, p2, q1)) return true; // p1, q1 and p2 are collinear and p2 lies on p1q1
-    if (o2 === 0 && onSegment(p1, q2, q1)) return true; // p1, q1 and q2 are collinear and q2 lies on p1q1
-    if (o3 === 0 && onSegment(p2, p1, q2)) return true; // p2, q2 and p1 are collinear and p1 lies on p2q2
-    if (o4 === 0 && onSegment(p2, q1, q2)) return true; // p2, q2 and q1 are collinear and q1 lies on p2q2
-
-    return false;
-}
-
-// for collinear points p, q, r, check if point q lies on segment pr
-function onSegment(p, q, r) {
-    return q.x <= Math.max(p.x, r.x) && q.x >= Math.min(p.x, r.x) && q.y <= Math.max(p.y, r.y) && q.y >= Math.min(p.y, r.y);
-}
-
-function sign(num) {
-    return num > 0 ? 1 : num < 0 ? -1 : 0;
+    if ((equals(p1, q1) && equals(p2, q2)) ||
+        (equals(p1, q2) && equals(p2, q1))) return true;
+    return area(p1, q1, p2) > 0 !== area(p1, q1, q2) > 0 &&
+           area(p2, q2, p1) > 0 !== area(p2, q2, q1) > 0;
 }
 
 // check if a polygon diagonal intersects any polygon segments
@@ -1607,14 +1566,14 @@ function removeNode(p) {
 }
 
 function Node(i, x, y) {
-    // vertex index in coordinates array
+    // vertice index in coordinates array
     this.i = i;
 
     // vertex coordinates
     this.x = x;
     this.y = y;
 
-    // previous and next vertex nodes in a polygon ring
+    // previous and next vertice nodes in a polygon ring
     this.prev = null;
     this.next = null;
 
@@ -2460,6 +2419,238 @@ module.exports = function parseURI (str, opts) {
 
 /***/ }),
 
+/***/ "./node_modules/path-browserify/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(process) {// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+// resolves . and .. elements in a path array with directory names there
+// must be no slashes, empty elements, or device names (c:\) in the array
+// (so also no leading and trailing slashes - it does not distinguish
+// relative and absolute paths)
+function normalizeArray(parts, allowAboveRoot) {
+  // if the path tries to go above the root, `up` ends up > 0
+  var up = 0;
+  for (var i = parts.length - 1; i >= 0; i--) {
+    var last = parts[i];
+    if (last === '.') {
+      parts.splice(i, 1);
+    } else if (last === '..') {
+      parts.splice(i, 1);
+      up++;
+    } else if (up) {
+      parts.splice(i, 1);
+      up--;
+    }
+  }
+
+  // if the path is allowed to go above the root, restore leading ..s
+  if (allowAboveRoot) {
+    for (; up--; up) {
+      parts.unshift('..');
+    }
+  }
+
+  return parts;
+}
+
+// Split a filename into [root, dir, basename, ext], unix version
+// 'root' is just a slash, or nothing.
+var splitPathRe =
+    /^(\/?|)([\s\S]*?)((?:\.{1,2}|[^\/]+?|)(\.[^.\/]*|))(?:[\/]*)$/;
+var splitPath = function(filename) {
+  return splitPathRe.exec(filename).slice(1);
+};
+
+// path.resolve([from ...], to)
+// posix version
+exports.resolve = function() {
+  var resolvedPath = '',
+      resolvedAbsolute = false;
+
+  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
+    var path = (i >= 0) ? arguments[i] : process.cwd();
+
+    // Skip empty and invalid entries
+    if (typeof path !== 'string') {
+      throw new TypeError('Arguments to path.resolve must be strings');
+    } else if (!path) {
+      continue;
+    }
+
+    resolvedPath = path + '/' + resolvedPath;
+    resolvedAbsolute = path.charAt(0) === '/';
+  }
+
+  // At this point the path should be resolved to a full absolute path, but
+  // handle relative paths to be safe (might happen when process.cwd() fails)
+
+  // Normalize the path
+  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
+    return !!p;
+  }), !resolvedAbsolute).join('/');
+
+  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
+};
+
+// path.normalize(path)
+// posix version
+exports.normalize = function(path) {
+  var isAbsolute = exports.isAbsolute(path),
+      trailingSlash = substr(path, -1) === '/';
+
+  // Normalize the path
+  path = normalizeArray(filter(path.split('/'), function(p) {
+    return !!p;
+  }), !isAbsolute).join('/');
+
+  if (!path && !isAbsolute) {
+    path = '.';
+  }
+  if (path && trailingSlash) {
+    path += '/';
+  }
+
+  return (isAbsolute ? '/' : '') + path;
+};
+
+// posix version
+exports.isAbsolute = function(path) {
+  return path.charAt(0) === '/';
+};
+
+// posix version
+exports.join = function() {
+  var paths = Array.prototype.slice.call(arguments, 0);
+  return exports.normalize(filter(paths, function(p, index) {
+    if (typeof p !== 'string') {
+      throw new TypeError('Arguments to path.join must be strings');
+    }
+    return p;
+  }).join('/'));
+};
+
+
+// path.relative(from, to)
+// posix version
+exports.relative = function(from, to) {
+  from = exports.resolve(from).substr(1);
+  to = exports.resolve(to).substr(1);
+
+  function trim(arr) {
+    var start = 0;
+    for (; start < arr.length; start++) {
+      if (arr[start] !== '') break;
+    }
+
+    var end = arr.length - 1;
+    for (; end >= 0; end--) {
+      if (arr[end] !== '') break;
+    }
+
+    if (start > end) return [];
+    return arr.slice(start, end - start + 1);
+  }
+
+  var fromParts = trim(from.split('/'));
+  var toParts = trim(to.split('/'));
+
+  var length = Math.min(fromParts.length, toParts.length);
+  var samePartsLength = length;
+  for (var i = 0; i < length; i++) {
+    if (fromParts[i] !== toParts[i]) {
+      samePartsLength = i;
+      break;
+    }
+  }
+
+  var outputParts = [];
+  for (var i = samePartsLength; i < fromParts.length; i++) {
+    outputParts.push('..');
+  }
+
+  outputParts = outputParts.concat(toParts.slice(samePartsLength));
+
+  return outputParts.join('/');
+};
+
+exports.sep = '/';
+exports.delimiter = ':';
+
+exports.dirname = function(path) {
+  var result = splitPath(path),
+      root = result[0],
+      dir = result[1];
+
+  if (!root && !dir) {
+    // No dirname whatsoever
+    return '.';
+  }
+
+  if (dir) {
+    // It has a dirname, strip trailing slash
+    dir = dir.substr(0, dir.length - 1);
+  }
+
+  return root + dir;
+};
+
+
+exports.basename = function(path, ext) {
+  var f = splitPath(path)[2];
+  // TODO: make this comparison case-insensitive on windows?
+  if (ext && f.substr(-1 * ext.length) === ext) {
+    f = f.substr(0, f.length - ext.length);
+  }
+  return f;
+};
+
+
+exports.extname = function(path) {
+  return splitPath(path)[3];
+};
+
+function filter (xs, f) {
+    if (xs.filter) return xs.filter(f);
+    var res = [];
+    for (var i = 0; i < xs.length; i++) {
+        if (f(xs[i], i, xs)) res.push(xs[i]);
+    }
+    return res;
+}
+
+// String.prototype.substr - negative index don't work in IE8
+var substr = 'ab'.substr(-1) === 'b'
+    ? function (str, start, len) { return str.substr(start, len) }
+    : function (str, start, len) {
+        if (start < 0) start = str.length + start;
+        return str.substr(start, len);
+    }
+;
+
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__("./node_modules/process/browser.js")))
+
+/***/ }),
+
 /***/ "./node_modules/pixi-gl-core/src/GLBuffer.js":
 /***/ (function(module, exports) {
 
@@ -2781,7 +2972,6 @@ Framebuffer.createRGBA = function(gl, width, height, data)
     //now create the framebuffer object and attach the texture to it.
     var fbo = new Framebuffer(gl, width, height);
     fbo.enableTexture(texture);
-    //fbo.enableStencil(); // get this back on soon!
 
     //fbo.enableStencil(); // get this back on soon!
 
@@ -3357,15 +3547,11 @@ VertexArrayObject.prototype.bind = function()
         {
             this.dirty = false;
             this.activate();
-            return this;
-        }
-        if (this.indexBuffer)
-        {
-            this.indexBuffer.bind();
         }
     }
     else
     {
+
         this.activate();
     }
 
@@ -3969,68 +4155,33 @@ var generateUniformAccessObject = function(gl, uniformData)
 
 var generateGetter = function(name)
 {
-    return function() {
-        return this.data[name].value;
-    };
+	var template = getterTemplate.replace('%%', name);
+	return new Function(template); // jshint ignore:line
 };
 
-var GLSL_SINGLE_SETTERS = {
-    float: function setSingleFloat(gl, location, value) { gl.uniform1f(location, value); },
-    vec2: function setSingleVec2(gl, location, value) { gl.uniform2f(location, value[0], value[1]); },
-    vec3: function setSingleVec3(gl, location, value) { gl.uniform3f(location, value[0], value[1], value[2]); },
-    vec4: function setSingleVec4(gl, location, value) { gl.uniform4f(location, value[0], value[1], value[2], value[3]); },
-
-    int: function setSingleInt(gl, location, value) { gl.uniform1i(location, value); },
-    ivec2: function setSingleIvec2(gl, location, value) { gl.uniform2i(location, value[0], value[1]); },
-    ivec3: function setSingleIvec3(gl, location, value) { gl.uniform3i(location, value[0], value[1], value[2]); },
-    ivec4: function setSingleIvec4(gl, location, value) { gl.uniform4i(location, value[0], value[1], value[2], value[3]); },
-
-    bool: function setSingleBool(gl, location, value) { gl.uniform1i(location, value); },
-    bvec2: function setSingleBvec2(gl, location, value) { gl.uniform2i(location, value[0], value[1]); },
-    bvec3: function setSingleBvec3(gl, location, value) { gl.uniform3i(location, value[0], value[1], value[2]); },
-    bvec4: function setSingleBvec4(gl, location, value) { gl.uniform4i(location, value[0], value[1], value[2], value[3]); },
-
-    mat2: function setSingleMat2(gl, location, value) { gl.uniformMatrix2fv(location, false, value); },
-    mat3: function setSingleMat3(gl, location, value) { gl.uniformMatrix3fv(location, false, value); },
-    mat4: function setSingleMat4(gl, location, value) { gl.uniformMatrix4fv(location, false, value); },
-
-    sampler2D: function setSingleSampler2D(gl, location, value) { gl.uniform1i(location, value); },
-};
-
-var GLSL_ARRAY_SETTERS = {
-    float: function setFloatArray(gl, location, value) { gl.uniform1fv(location, value); },
-    vec2: function setVec2Array(gl, location, value) { gl.uniform2fv(location, value); },
-    vec3: function setVec3Array(gl, location, value) { gl.uniform3fv(location, value); },
-    vec4: function setVec4Array(gl, location, value) { gl.uniform4fv(location, value); },
-    int: function setIntArray(gl, location, value) { gl.uniform1iv(location, value); },
-    ivec2: function setIvec2Array(gl, location, value) { gl.uniform2iv(location, value); },
-    ivec3: function setIvec3Array(gl, location, value) { gl.uniform3iv(location, value); },
-    ivec4: function setIvec4Array(gl, location, value) { gl.uniform4iv(location, value); },
-    bool: function setBoolArray(gl, location, value) { gl.uniform1iv(location, value); },
-    bvec2: function setBvec2Array(gl, location, value) { gl.uniform2iv(location, value); },
-    bvec3: function setBvec3Array(gl, location, value) { gl.uniform3iv(location, value); },
-    bvec4: function setBvec4Array(gl, location, value) { gl.uniform4iv(location, value); },
-    sampler2D: function setSampler2DArray(gl, location, value) { gl.uniform1iv(location, value); },
-};
-
-function generateSetter(name, uniform)
+var generateSetter = function(name, uniform)
 {
-    return function(value) {
-        this.data[name].value = value;
-        var location = this.data[name].location;
-        if (uniform.size === 1)
-        {
-            GLSL_SINGLE_SETTERS[uniform.type](this.gl, location, value);
-        }
-        else
-        {
-            // glslSetArray(gl, location, type, value) {
-            GLSL_ARRAY_SETTERS[uniform.type](this.gl, location, value);
-        }
-    };
-}
+    var template = setterTemplate.replace(/%%/g, name);
+    var setTemplate;
 
-function getUniformGroup(nameTokens, uniform)
+    if(uniform.size === 1)
+    {
+        setTemplate = GLSL_TO_SINGLE_SETTERS[uniform.type];
+    }
+    else
+    {
+        setTemplate = GLSL_TO_ARRAY_SETTERS[uniform.type];
+    }
+
+    if(setTemplate)
+    {
+        template += "\nthis.gl." + setTemplate + ";";
+    }
+
+  	return new Function('value', template); // jshint ignore:line
+};
+
+var getUniformGroup = function(nameTokens, uniform)
 {
     var cur = uniform;
 
@@ -4042,8 +4193,63 @@ function getUniformGroup(nameTokens, uniform)
     }
 
     return cur;
-}
+};
 
+var getterTemplate = [
+    'return this.data.%%.value;',
+].join('\n');
+
+var setterTemplate = [
+    'this.data.%%.value = value;',
+    'var location = this.data.%%.location;'
+].join('\n');
+
+
+var GLSL_TO_SINGLE_SETTERS = {
+
+    'float':    'uniform1f(location, value)',
+
+    'vec2':     'uniform2f(location, value[0], value[1])',
+    'vec3':     'uniform3f(location, value[0], value[1], value[2])',
+    'vec4':     'uniform4f(location, value[0], value[1], value[2], value[3])',
+
+    'int':      'uniform1i(location, value)',
+    'ivec2':    'uniform2i(location, value[0], value[1])',
+    'ivec3':    'uniform3i(location, value[0], value[1], value[2])',
+    'ivec4':    'uniform4i(location, value[0], value[1], value[2], value[3])',
+
+    'bool':     'uniform1i(location, value)',
+    'bvec2':    'uniform2i(location, value[0], value[1])',
+    'bvec3':    'uniform3i(location, value[0], value[1], value[2])',
+    'bvec4':    'uniform4i(location, value[0], value[1], value[2], value[3])',
+
+    'mat2':     'uniformMatrix2fv(location, false, value)',
+    'mat3':     'uniformMatrix3fv(location, false, value)',
+    'mat4':     'uniformMatrix4fv(location, false, value)',
+
+    'sampler2D':'uniform1i(location, value)'
+};
+
+var GLSL_TO_ARRAY_SETTERS = {
+
+    'float':    'uniform1fv(location, value)',
+
+    'vec2':     'uniform2fv(location, value)',
+    'vec3':     'uniform3fv(location, value)',
+    'vec4':     'uniform4fv(location, value)',
+
+    'int':      'uniform1iv(location, value)',
+    'ivec2':    'uniform2iv(location, value)',
+    'ivec3':    'uniform3iv(location, value)',
+    'ivec4':    'uniform4iv(location, value)',
+
+    'bool':     'uniform1iv(location, value)',
+    'bvec2':    'uniform2iv(location, value)',
+    'bvec3':    'uniform3iv(location, value)',
+    'bvec4':    'uniform4iv(location, value)',
+
+    'sampler2D':'uniform1iv(location, value)'
+};
 
 module.exports = generateUniformAccessObject;
 
@@ -15762,7 +15968,7 @@ var _Filter3 = _interopRequireDefault(_Filter2);
 
 var _math = __webpack_require__("./node_modules/pixi.js/lib/core/math/index.js");
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 var _TextureMatrix = __webpack_require__("./node_modules/pixi.js/lib/core/textures/TextureMatrix.js");
 
@@ -19584,7 +19790,7 @@ var _Shader = __webpack_require__("./node_modules/pixi.js/lib/core/Shader.js");
 
 var _Shader2 = _interopRequireDefault(_Shader);
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -29435,7 +29641,7 @@ var core = _interopRequireWildcard(_core);
 
 var _const = __webpack_require__("./node_modules/pixi.js/lib/core/const.js");
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -29603,7 +29809,7 @@ var _core = __webpack_require__("./node_modules/pixi.js/lib/core/index.js");
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -30339,7 +30545,7 @@ var _core = __webpack_require__("./node_modules/pixi.js/lib/core/index.js");
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -30896,7 +31102,7 @@ var _core = __webpack_require__("./node_modules/pixi.js/lib/core/index.js");
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -31010,7 +31216,7 @@ var _core = __webpack_require__("./node_modules/pixi.js/lib/core/index.js");
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -31157,7 +31363,7 @@ var _core = __webpack_require__("./node_modules/pixi.js/lib/core/index.js");
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -33886,7 +34092,7 @@ exports.default = function () {
     };
 };
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 var path = _interopRequireWildcard(_path);
 
@@ -35850,7 +36056,7 @@ var _Mesh = __webpack_require__("./node_modules/pixi.js/lib/mesh/Mesh.js");
 
 var _Mesh2 = _interopRequireDefault(_Mesh);
 
-var _path = __webpack_require__("./node_modules/webpack/node_modules/path-browserify/index.js");
+var _path = __webpack_require__("./node_modules/path-browserify/index.js");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -38274,6 +38480,547 @@ core.WebGLRenderer.registerPlugin('prepare', WebGLPrepare);
 
 /***/ }),
 
+/***/ "./node_modules/punycode/punycode.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(module, global) {/*! https://mths.be/punycode v1.4.1 by @mathias */
+;(function(root) {
+
+	/** Detect free variables */
+	var freeExports = typeof exports == 'object' && exports &&
+		!exports.nodeType && exports;
+	var freeModule = typeof module == 'object' && module &&
+		!module.nodeType && module;
+	var freeGlobal = typeof global == 'object' && global;
+	if (
+		freeGlobal.global === freeGlobal ||
+		freeGlobal.window === freeGlobal ||
+		freeGlobal.self === freeGlobal
+	) {
+		root = freeGlobal;
+	}
+
+	/**
+	 * The `punycode` object.
+	 * @name punycode
+	 * @type Object
+	 */
+	var punycode,
+
+	/** Highest positive signed 32-bit float value */
+	maxInt = 2147483647, // aka. 0x7FFFFFFF or 2^31-1
+
+	/** Bootstring parameters */
+	base = 36,
+	tMin = 1,
+	tMax = 26,
+	skew = 38,
+	damp = 700,
+	initialBias = 72,
+	initialN = 128, // 0x80
+	delimiter = '-', // '\x2D'
+
+	/** Regular expressions */
+	regexPunycode = /^xn--/,
+	regexNonASCII = /[^\x20-\x7E]/, // unprintable ASCII chars + non-ASCII chars
+	regexSeparators = /[\x2E\u3002\uFF0E\uFF61]/g, // RFC 3490 separators
+
+	/** Error messages */
+	errors = {
+		'overflow': 'Overflow: input needs wider integers to process',
+		'not-basic': 'Illegal input >= 0x80 (not a basic code point)',
+		'invalid-input': 'Invalid input'
+	},
+
+	/** Convenience shortcuts */
+	baseMinusTMin = base - tMin,
+	floor = Math.floor,
+	stringFromCharCode = String.fromCharCode,
+
+	/** Temporary variable */
+	key;
+
+	/*--------------------------------------------------------------------------*/
+
+	/**
+	 * A generic error utility function.
+	 * @private
+	 * @param {String} type The error type.
+	 * @returns {Error} Throws a `RangeError` with the applicable error message.
+	 */
+	function error(type) {
+		throw new RangeError(errors[type]);
+	}
+
+	/**
+	 * A generic `Array#map` utility function.
+	 * @private
+	 * @param {Array} array The array to iterate over.
+	 * @param {Function} callback The function that gets called for every array
+	 * item.
+	 * @returns {Array} A new array of values returned by the callback function.
+	 */
+	function map(array, fn) {
+		var length = array.length;
+		var result = [];
+		while (length--) {
+			result[length] = fn(array[length]);
+		}
+		return result;
+	}
+
+	/**
+	 * A simple `Array#map`-like wrapper to work with domain name strings or email
+	 * addresses.
+	 * @private
+	 * @param {String} domain The domain name or email address.
+	 * @param {Function} callback The function that gets called for every
+	 * character.
+	 * @returns {Array} A new string of characters returned by the callback
+	 * function.
+	 */
+	function mapDomain(string, fn) {
+		var parts = string.split('@');
+		var result = '';
+		if (parts.length > 1) {
+			// In email addresses, only the domain name should be punycoded. Leave
+			// the local part (i.e. everything up to `@`) intact.
+			result = parts[0] + '@';
+			string = parts[1];
+		}
+		// Avoid `split(regex)` for IE8 compatibility. See #17.
+		string = string.replace(regexSeparators, '\x2E');
+		var labels = string.split('.');
+		var encoded = map(labels, fn).join('.');
+		return result + encoded;
+	}
+
+	/**
+	 * Creates an array containing the numeric code points of each Unicode
+	 * character in the string. While JavaScript uses UCS-2 internally,
+	 * this function will convert a pair of surrogate halves (each of which
+	 * UCS-2 exposes as separate characters) into a single code point,
+	 * matching UTF-16.
+	 * @see `punycode.ucs2.encode`
+	 * @see <https://mathiasbynens.be/notes/javascript-encoding>
+	 * @memberOf punycode.ucs2
+	 * @name decode
+	 * @param {String} string The Unicode input string (UCS-2).
+	 * @returns {Array} The new array of code points.
+	 */
+	function ucs2decode(string) {
+		var output = [],
+		    counter = 0,
+		    length = string.length,
+		    value,
+		    extra;
+		while (counter < length) {
+			value = string.charCodeAt(counter++);
+			if (value >= 0xD800 && value <= 0xDBFF && counter < length) {
+				// high surrogate, and there is a next character
+				extra = string.charCodeAt(counter++);
+				if ((extra & 0xFC00) == 0xDC00) { // low surrogate
+					output.push(((value & 0x3FF) << 10) + (extra & 0x3FF) + 0x10000);
+				} else {
+					// unmatched surrogate; only append this code unit, in case the next
+					// code unit is the high surrogate of a surrogate pair
+					output.push(value);
+					counter--;
+				}
+			} else {
+				output.push(value);
+			}
+		}
+		return output;
+	}
+
+	/**
+	 * Creates a string based on an array of numeric code points.
+	 * @see `punycode.ucs2.decode`
+	 * @memberOf punycode.ucs2
+	 * @name encode
+	 * @param {Array} codePoints The array of numeric code points.
+	 * @returns {String} The new Unicode string (UCS-2).
+	 */
+	function ucs2encode(array) {
+		return map(array, function(value) {
+			var output = '';
+			if (value > 0xFFFF) {
+				value -= 0x10000;
+				output += stringFromCharCode(value >>> 10 & 0x3FF | 0xD800);
+				value = 0xDC00 | value & 0x3FF;
+			}
+			output += stringFromCharCode(value);
+			return output;
+		}).join('');
+	}
+
+	/**
+	 * Converts a basic code point into a digit/integer.
+	 * @see `digitToBasic()`
+	 * @private
+	 * @param {Number} codePoint The basic numeric code point value.
+	 * @returns {Number} The numeric value of a basic code point (for use in
+	 * representing integers) in the range `0` to `base - 1`, or `base` if
+	 * the code point does not represent a value.
+	 */
+	function basicToDigit(codePoint) {
+		if (codePoint - 48 < 10) {
+			return codePoint - 22;
+		}
+		if (codePoint - 65 < 26) {
+			return codePoint - 65;
+		}
+		if (codePoint - 97 < 26) {
+			return codePoint - 97;
+		}
+		return base;
+	}
+
+	/**
+	 * Converts a digit/integer into a basic code point.
+	 * @see `basicToDigit()`
+	 * @private
+	 * @param {Number} digit The numeric value of a basic code point.
+	 * @returns {Number} The basic code point whose value (when used for
+	 * representing integers) is `digit`, which needs to be in the range
+	 * `0` to `base - 1`. If `flag` is non-zero, the uppercase form is
+	 * used; else, the lowercase form is used. The behavior is undefined
+	 * if `flag` is non-zero and `digit` has no uppercase form.
+	 */
+	function digitToBasic(digit, flag) {
+		//  0..25 map to ASCII a..z or A..Z
+		// 26..35 map to ASCII 0..9
+		return digit + 22 + 75 * (digit < 26) - ((flag != 0) << 5);
+	}
+
+	/**
+	 * Bias adaptation function as per section 3.4 of RFC 3492.
+	 * https://tools.ietf.org/html/rfc3492#section-3.4
+	 * @private
+	 */
+	function adapt(delta, numPoints, firstTime) {
+		var k = 0;
+		delta = firstTime ? floor(delta / damp) : delta >> 1;
+		delta += floor(delta / numPoints);
+		for (/* no initialization */; delta > baseMinusTMin * tMax >> 1; k += base) {
+			delta = floor(delta / baseMinusTMin);
+		}
+		return floor(k + (baseMinusTMin + 1) * delta / (delta + skew));
+	}
+
+	/**
+	 * Converts a Punycode string of ASCII-only symbols to a string of Unicode
+	 * symbols.
+	 * @memberOf punycode
+	 * @param {String} input The Punycode string of ASCII-only symbols.
+	 * @returns {String} The resulting string of Unicode symbols.
+	 */
+	function decode(input) {
+		// Don't use UCS-2
+		var output = [],
+		    inputLength = input.length,
+		    out,
+		    i = 0,
+		    n = initialN,
+		    bias = initialBias,
+		    basic,
+		    j,
+		    index,
+		    oldi,
+		    w,
+		    k,
+		    digit,
+		    t,
+		    /** Cached calculation results */
+		    baseMinusT;
+
+		// Handle the basic code points: let `basic` be the number of input code
+		// points before the last delimiter, or `0` if there is none, then copy
+		// the first basic code points to the output.
+
+		basic = input.lastIndexOf(delimiter);
+		if (basic < 0) {
+			basic = 0;
+		}
+
+		for (j = 0; j < basic; ++j) {
+			// if it's not a basic code point
+			if (input.charCodeAt(j) >= 0x80) {
+				error('not-basic');
+			}
+			output.push(input.charCodeAt(j));
+		}
+
+		// Main decoding loop: start just after the last delimiter if any basic code
+		// points were copied; start at the beginning otherwise.
+
+		for (index = basic > 0 ? basic + 1 : 0; index < inputLength; /* no final expression */) {
+
+			// `index` is the index of the next character to be consumed.
+			// Decode a generalized variable-length integer into `delta`,
+			// which gets added to `i`. The overflow checking is easier
+			// if we increase `i` as we go, then subtract off its starting
+			// value at the end to obtain `delta`.
+			for (oldi = i, w = 1, k = base; /* no condition */; k += base) {
+
+				if (index >= inputLength) {
+					error('invalid-input');
+				}
+
+				digit = basicToDigit(input.charCodeAt(index++));
+
+				if (digit >= base || digit > floor((maxInt - i) / w)) {
+					error('overflow');
+				}
+
+				i += digit * w;
+				t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
+
+				if (digit < t) {
+					break;
+				}
+
+				baseMinusT = base - t;
+				if (w > floor(maxInt / baseMinusT)) {
+					error('overflow');
+				}
+
+				w *= baseMinusT;
+
+			}
+
+			out = output.length + 1;
+			bias = adapt(i - oldi, out, oldi == 0);
+
+			// `i` was supposed to wrap around from `out` to `0`,
+			// incrementing `n` each time, so we'll fix that now:
+			if (floor(i / out) > maxInt - n) {
+				error('overflow');
+			}
+
+			n += floor(i / out);
+			i %= out;
+
+			// Insert `n` at position `i` of the output
+			output.splice(i++, 0, n);
+
+		}
+
+		return ucs2encode(output);
+	}
+
+	/**
+	 * Converts a string of Unicode symbols (e.g. a domain name label) to a
+	 * Punycode string of ASCII-only symbols.
+	 * @memberOf punycode
+	 * @param {String} input The string of Unicode symbols.
+	 * @returns {String} The resulting Punycode string of ASCII-only symbols.
+	 */
+	function encode(input) {
+		var n,
+		    delta,
+		    handledCPCount,
+		    basicLength,
+		    bias,
+		    j,
+		    m,
+		    q,
+		    k,
+		    t,
+		    currentValue,
+		    output = [],
+		    /** `inputLength` will hold the number of code points in `input`. */
+		    inputLength,
+		    /** Cached calculation results */
+		    handledCPCountPlusOne,
+		    baseMinusT,
+		    qMinusT;
+
+		// Convert the input in UCS-2 to Unicode
+		input = ucs2decode(input);
+
+		// Cache the length
+		inputLength = input.length;
+
+		// Initialize the state
+		n = initialN;
+		delta = 0;
+		bias = initialBias;
+
+		// Handle the basic code points
+		for (j = 0; j < inputLength; ++j) {
+			currentValue = input[j];
+			if (currentValue < 0x80) {
+				output.push(stringFromCharCode(currentValue));
+			}
+		}
+
+		handledCPCount = basicLength = output.length;
+
+		// `handledCPCount` is the number of code points that have been handled;
+		// `basicLength` is the number of basic code points.
+
+		// Finish the basic string - if it is not empty - with a delimiter
+		if (basicLength) {
+			output.push(delimiter);
+		}
+
+		// Main encoding loop:
+		while (handledCPCount < inputLength) {
+
+			// All non-basic code points < n have been handled already. Find the next
+			// larger one:
+			for (m = maxInt, j = 0; j < inputLength; ++j) {
+				currentValue = input[j];
+				if (currentValue >= n && currentValue < m) {
+					m = currentValue;
+				}
+			}
+
+			// Increase `delta` enough to advance the decoder's <n,i> state to <m,0>,
+			// but guard against overflow
+			handledCPCountPlusOne = handledCPCount + 1;
+			if (m - n > floor((maxInt - delta) / handledCPCountPlusOne)) {
+				error('overflow');
+			}
+
+			delta += (m - n) * handledCPCountPlusOne;
+			n = m;
+
+			for (j = 0; j < inputLength; ++j) {
+				currentValue = input[j];
+
+				if (currentValue < n && ++delta > maxInt) {
+					error('overflow');
+				}
+
+				if (currentValue == n) {
+					// Represent delta as a generalized variable-length integer
+					for (q = delta, k = base; /* no condition */; k += base) {
+						t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
+						if (q < t) {
+							break;
+						}
+						qMinusT = q - t;
+						baseMinusT = base - t;
+						output.push(
+							stringFromCharCode(digitToBasic(t + qMinusT % baseMinusT, 0))
+						);
+						q = floor(qMinusT / baseMinusT);
+					}
+
+					output.push(stringFromCharCode(digitToBasic(q, 0)));
+					bias = adapt(delta, handledCPCountPlusOne, handledCPCount == basicLength);
+					delta = 0;
+					++handledCPCount;
+				}
+			}
+
+			++delta;
+			++n;
+
+		}
+		return output.join('');
+	}
+
+	/**
+	 * Converts a Punycode string representing a domain name or an email address
+	 * to Unicode. Only the Punycoded parts of the input will be converted, i.e.
+	 * it doesn't matter if you call it on a string that has already been
+	 * converted to Unicode.
+	 * @memberOf punycode
+	 * @param {String} input The Punycoded domain name or email address to
+	 * convert to Unicode.
+	 * @returns {String} The Unicode representation of the given Punycode
+	 * string.
+	 */
+	function toUnicode(input) {
+		return mapDomain(input, function(string) {
+			return regexPunycode.test(string)
+				? decode(string.slice(4).toLowerCase())
+				: string;
+		});
+	}
+
+	/**
+	 * Converts a Unicode string representing a domain name or an email address to
+	 * Punycode. Only the non-ASCII parts of the domain name will be converted,
+	 * i.e. it doesn't matter if you call it with a domain that's already in
+	 * ASCII.
+	 * @memberOf punycode
+	 * @param {String} input The domain name or email address to convert, as a
+	 * Unicode string.
+	 * @returns {String} The Punycode representation of the given domain name or
+	 * email address.
+	 */
+	function toASCII(input) {
+		return mapDomain(input, function(string) {
+			return regexNonASCII.test(string)
+				? 'xn--' + encode(string)
+				: string;
+		});
+	}
+
+	/*--------------------------------------------------------------------------*/
+
+	/** Define the public API */
+	punycode = {
+		/**
+		 * A string representing the current Punycode.js version number.
+		 * @memberOf punycode
+		 * @type String
+		 */
+		'version': '1.4.1',
+		/**
+		 * An object of methods to convert from JavaScript's internal character
+		 * representation (UCS-2) to Unicode code points, and back.
+		 * @see <https://mathiasbynens.be/notes/javascript-encoding>
+		 * @memberOf punycode
+		 * @type Object
+		 */
+		'ucs2': {
+			'decode': ucs2decode,
+			'encode': ucs2encode
+		},
+		'decode': decode,
+		'encode': encode,
+		'toASCII': toASCII,
+		'toUnicode': toUnicode
+	};
+
+	/** Expose `punycode` */
+	// Some AMD build optimizers, like r.js, check for specific condition patterns
+	// like the following:
+	if (
+		typeof define == 'function' &&
+		typeof define.amd == 'object' &&
+		define.amd
+	) {
+		define('punycode', function() {
+			return punycode;
+		});
+	} else if (freeExports && freeModule) {
+		if (module.exports == freeExports) {
+			// in Node.js, io.js, or RingoJS v0.8.0+
+			freeModule.exports = punycode;
+		} else {
+			// in Narwhal or RingoJS v0.7.0-
+			for (key in punycode) {
+				punycode.hasOwnProperty(key) && (freeExports[key] = punycode[key]);
+			}
+		}
+	} else {
+		// in Rhino or a web browser
+		root.punycode = punycode;
+	}
+
+}(this));
+
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__("./node_modules/webpack/buildin/module.js")(module), __webpack_require__("./node_modules/webpack/buildin/global.js")))
+
+/***/ }),
+
 /***/ "./node_modules/querystring-es3/decode.js":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -38485,7 +39232,8 @@ exports.encode = exports.stringify = __webpack_require__("./node_modules/queryst
  * @param {number} startIdx The index to begin removing from (inclusive)
  * @param {number} removeCount How many items to remove
  */
-module.exports = function removeItems (arr, startIdx, removeCount) {
+module.exports = function removeItems(arr, startIdx, removeCount)
+{
   var i, length = arr.length
 
   if (startIdx >= length || removeCount === 0) {
@@ -38513,11 +39261,8 @@ module.exports = function removeItems (arr, startIdx, removeCount) {
 
 
 exports.__esModule = true;
-exports.Loader = undefined;
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
-
-var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
 var _miniSignals = __webpack_require__("./node_modules/mini-signals/lib/mini-signals.js");
 
@@ -38532,6 +39277,8 @@ var _async = __webpack_require__("./node_modules/resource-loader/lib/async.js");
 var async = _interopRequireWildcard(_async);
 
 var _Resource = __webpack_require__("./node_modules/resource-loader/lib/Resource.js");
+
+var _Resource2 = _interopRequireDefault(_Resource);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -38549,7 +39296,7 @@ var rgxExtractUrlHash = /(#[\w-]+)?$/;
  * @class
  */
 
-var Loader = exports.Loader = function () {
+var Loader = function () {
     /**
      * @param {string} [baseUrl=''] - The base url for all resources loaded by this loader.
      * @param {number} [concurrency=10] - The number of resources to load concurrently.
@@ -38602,15 +39349,12 @@ var Loader = exports.Loader = function () {
          *
          * // This will request 'image.png?v=1&user=me&password=secret'
          * loader.add('iamge.png?v=1').load();
-         *
-         * @member {string}
          */
         this.defaultQueryString = '';
 
         /**
          * The middleware to run before loading each resource.
          *
-         * @private
          * @member {function[]}
          */
         this._beforeMiddleware = [];
@@ -38618,7 +39362,6 @@ var Loader = exports.Loader = function () {
         /**
          * The middleware to run after loading each resource.
          *
-         * @private
          * @member {function[]}
          */
         this._afterMiddleware = [];
@@ -38626,7 +39369,6 @@ var Loader = exports.Loader = function () {
         /**
          * The tracks the resources we are currently completing parsing for.
          *
-         * @private
          * @member {Resource[]}
          */
         this._resourcesParsing = [];
@@ -38666,7 +39408,7 @@ var Loader = exports.Loader = function () {
          *
          * The callback looks like {@link Loader.OnProgressSignal}.
          *
-         * @member {Signal<Loader.OnProgressSignal>}
+         * @member {Signal}
          */
         this.onProgress = new _miniSignals2.default();
 
@@ -38675,7 +39417,7 @@ var Loader = exports.Loader = function () {
          *
          * The callback looks like {@link Loader.OnErrorSignal}.
          *
-         * @member {Signal<Loader.OnErrorSignal>}
+         * @member {Signal}
          */
         this.onError = new _miniSignals2.default();
 
@@ -38684,7 +39426,7 @@ var Loader = exports.Loader = function () {
          *
          * The callback looks like {@link Loader.OnLoadSignal}.
          *
-         * @member {Signal<Loader.OnLoadSignal>}
+         * @member {Signal}
          */
         this.onLoad = new _miniSignals2.default();
 
@@ -38693,7 +39435,7 @@ var Loader = exports.Loader = function () {
          *
          * The callback looks like {@link Loader.OnStartSignal}.
          *
-         * @member {Signal<Loader.OnStartSignal>}
+         * @member {Signal}
          */
         this.onStart = new _miniSignals2.default();
 
@@ -38702,88 +39444,54 @@ var Loader = exports.Loader = function () {
          *
          * The callback looks like {@link Loader.OnCompleteSignal}.
          *
-         * @member {Signal<Loader.OnCompleteSignal>}
+         * @member {Signal}
          */
         this.onComplete = new _miniSignals2.default();
 
-        // Add default before middleware
-        for (var i = 0; i < Loader._defaultBeforeMiddleware.length; ++i) {
-            this.pre(Loader._defaultBeforeMiddleware[i]);
-        }
+        /**
+         * When the progress changes the loader and resource are disaptched.
+         *
+         * @memberof Loader
+         * @callback OnProgressSignal
+         * @param {Loader} loader - The loader the progress is advancing on.
+         * @param {Resource} resource - The resource that has completed or failed to cause the progress to advance.
+         */
 
-        // Add default after middleware
-        for (var _i = 0; _i < Loader._defaultAfterMiddleware.length; ++_i) {
-            this.use(Loader._defaultAfterMiddleware[_i]);
-        }
+        /**
+         * When an error occurrs the loader and resource are disaptched.
+         *
+         * @memberof Loader
+         * @callback OnErrorSignal
+         * @param {Loader} loader - The loader the error happened in.
+         * @param {Resource} resource - The resource that caused the error.
+         */
+
+        /**
+         * When a load completes the loader and resource are disaptched.
+         *
+         * @memberof Loader
+         * @callback OnLoadSignal
+         * @param {Loader} loader - The loader that laoded the resource.
+         * @param {Resource} resource - The resource that has completed loading.
+         */
+
+        /**
+         * When the loader starts loading resources it dispatches this callback.
+         *
+         * @memberof Loader
+         * @callback OnStartSignal
+         * @param {Loader} loader - The loader that has started loading resources.
+         */
+
+        /**
+         * When the loader completes loading resources it dispatches this callback.
+         *
+         * @memberof Loader
+         * @callback OnCompleteSignal
+         * @param {Loader} loader - The loader that has finished loading resources.
+         */
     }
 
-    /**
-     * When the progress changes the loader and resource are disaptched.
-     *
-     * @memberof Loader
-     * @callback OnProgressSignal
-     * @param {Loader} loader - The loader the progress is advancing on.
-     * @param {Resource} resource - The resource that has completed or failed to cause the progress to advance.
-     */
-
-    /**
-     * When an error occurrs the loader and resource are disaptched.
-     *
-     * @memberof Loader
-     * @callback OnErrorSignal
-     * @param {Loader} loader - The loader the error happened in.
-     * @param {Resource} resource - The resource that caused the error.
-     */
-
-    /**
-     * When a load completes the loader and resource are disaptched.
-     *
-     * @memberof Loader
-     * @callback OnLoadSignal
-     * @param {Loader} loader - The loader that laoded the resource.
-     * @param {Resource} resource - The resource that has completed loading.
-     */
-
-    /**
-     * When the loader starts loading resources it dispatches this callback.
-     *
-     * @memberof Loader
-     * @callback OnStartSignal
-     * @param {Loader} loader - The loader that has started loading resources.
-     */
-
-    /**
-     * When the loader completes loading resources it dispatches this callback.
-     *
-     * @memberof Loader
-     * @callback OnCompleteSignal
-     * @param {Loader} loader - The loader that has finished loading resources.
-     */
-
-    /**
-     * Options for a call to `.add()`.
-     *
-     * @see Loader#add
-     *
-     * @typedef {object} IAddOptions
-     * @property {string} [name] - The name of the resource to load, if not passed the url is used.
-     * @property {string} [key] - Alias for `name`.
-     * @property {string} [url] - The url for this resource, relative to the baseUrl of this loader.
-     * @property {string|boolean} [crossOrigin] - Is this request cross-origin? Default is to
-     *      determine automatically.
-     * @property {number} [timeout=0] - A timeout in milliseconds for the load. If the load takes
-     *      longer than this time it is cancelled and the load is considered a failure. If this value is
-     *      set to `0` then there is no explicit timeout.
-     * @property {Resource.LOAD_TYPE} [loadType=Resource.LOAD_TYPE.XHR] - How should this resource
-     *      be loaded?
-     * @property {Resource.XHR_RESPONSE_TYPE} [xhrType=Resource.XHR_RESPONSE_TYPE.DEFAULT] - How
-     *      should the data being loaded be interpreted when using XHR?
-     * @property {Resource.OnCompleteSignal} [onComplete] - Callback to add an an onComplete signal istener.
-     * @property {Resource.OnCompleteSignal} [callback] - Alias for `onComplete`.
-     * @property {Resource.IMetadata} [metadata] - Extra configuration for middleware and the Resource object.
-     */
-
-    /* eslint-disable require-jsdoc,valid-jsdoc */
     /**
      * Adds a resource (or multiple resources) to the loader queue.
      *
@@ -38828,47 +39536,21 @@ var Loader = exports.Loader = function () {
      *     .add('http://...', { crossOrigin: true }, function () {});
      * ```
      *
-     * @function
-     * @variation 1
-     * @param {string} name - The name of the resource to load.
-     * @param {string} url - The url for this resource, relative to the baseUrl of this loader.
-     * @param {Resource.OnCompleteSignal} [callback] - Function to call when this specific resource completes loading.
-     * @return {this} Returns itself.
-     */ /**
-        * @function
-        * @variation 2
-        * @param {string} name - The name of the resource to load.
-        * @param {string} url - The url for this resource, relative to the baseUrl of this loader.
-        * @param {IAddOptions} [options] - The options for the load.
-        * @param {Resource.OnCompleteSignal} [callback] - Function to call when this specific resource completes loading.
-        * @return {this} Returns itself.
-        */ /**
-           * @function
-           * @variation 3
-           * @param {string} url - The url for this resource, relative to the baseUrl of this loader.
-           * @param {Resource.OnCompleteSignal} [callback] - Function to call when this specific resource completes loading.
-           * @return {this} Returns itself.
-           */ /**
-              * @function
-              * @variation 4
-              * @param {string} url - The url for this resource, relative to the baseUrl of this loader.
-              * @param {IAddOptions} [options] - The options for the load.
-              * @param {Resource.OnCompleteSignal} [callback] - Function to call when this specific resource completes loading.
-              * @return {this} Returns itself.
-              */ /**
-                 * @function
-                 * @variation 5
-                 * @param {IAddOptions} options - The options for the load. This object must contain a `url` property.
-                 * @param {Resource.OnCompleteSignal} [callback] - Function to call when this specific resource completes loading.
-                 * @return {this} Returns itself.
-                 */ /**
-                    * @function
-                    * @variation 6
-                    * @param {Array<IAddOptions|string>} resources - An array of resources to load, where each is
-                    *      either an object with the options or a string url. If you pass an object, it must contain a `url` property.
-                    * @param {Resource.OnCompleteSignal} [callback] - Function to call when this specific resource completes loading.
-                    * @return {this} Returns itself.
-                    */
+     * @param {string} [name] - The name of the resource to load, if not passed the url is used.
+     * @param {string} [url] - The url for this resource, relative to the baseUrl of this loader.
+     * @param {object} [options] - The options for the load.
+     * @param {boolean} [options.crossOrigin] - Is this request cross-origin? Default is to determine automatically.
+     * @param {Resource.LOAD_TYPE} [options.loadType=Resource.LOAD_TYPE.XHR] - How should this resource be loaded?
+     * @param {Resource.XHR_RESPONSE_TYPE} [options.xhrType=Resource.XHR_RESPONSE_TYPE.DEFAULT] - How should
+     *      the data being loaded be interpreted when using XHR?
+     * @param {object} [options.metadata] - Extra configuration for middleware and the Resource object.
+     * @param {HTMLImageElement|HTMLAudioElement|HTMLVideoElement} [options.metadata.loadElement=null] - The
+     *      element to use for loading, instead of creating one.
+     * @param {boolean} [options.metadata.skipSource=false] - Skips adding source(s) to the load element. This
+     *      is useful if you want to pass in a `loadElement` that you already added load sources to.
+     * @param {function} [cb] - Function to call when this specific resource completes loading.
+     * @return {Loader} Returns itself.
+     */
 
 
     Loader.prototype.add = function add(name, url, options, cb) {
@@ -38921,7 +39603,7 @@ var Loader = exports.Loader = function () {
         url = this._prepareUrl(url);
 
         // create the store the resource
-        this.resources[name] = new _Resource.Resource(name, url, options);
+        this.resources[name] = new _Resource2.default(name, url, options);
 
         if (typeof cb === 'function') {
             this.resources[name].onAfterMiddleware.once(cb);
@@ -38932,9 +39614,9 @@ var Loader = exports.Loader = function () {
             var parent = options.parentResource;
             var incompleteChildren = [];
 
-            for (var _i2 = 0; _i2 < parent.children.length; ++_i2) {
-                if (!parent.children[_i2].isComplete) {
-                    incompleteChildren.push(parent.children[_i2]);
+            for (var _i = 0; _i < parent.children.length; ++_i) {
+                if (!parent.children[_i].isComplete) {
+                    incompleteChildren.push(parent.children[_i]);
                 }
             }
 
@@ -38944,8 +39626,8 @@ var Loader = exports.Loader = function () {
             parent.children.push(this.resources[name]);
             parent.progressChunk = eachChunk;
 
-            for (var _i3 = 0; _i3 < incompleteChildren.length; ++_i3) {
-                incompleteChildren[_i3].progressChunk = eachChunk;
+            for (var _i2 = 0; _i2 < incompleteChildren.length; ++_i2) {
+                incompleteChildren[_i2].progressChunk = eachChunk;
             }
 
             this.resources[name].progressChunk = eachChunk;
@@ -38956,14 +39638,14 @@ var Loader = exports.Loader = function () {
 
         return this;
     };
-    /* eslint-enable require-jsdoc,valid-jsdoc */
 
     /**
      * Sets up a middleware function that will run *before* the
      * resource is loaded.
      *
+     * @method before
      * @param {function} fn - The middleware function to register.
-     * @return {this} Returns itself.
+     * @return {Loader} Returns itself.
      */
 
 
@@ -38977,8 +39659,10 @@ var Loader = exports.Loader = function () {
      * Sets up a middleware function that will run *after* the
      * resource is loaded.
      *
+     * @alias use
+     * @method after
      * @param {function} fn - The middleware function to register.
-     * @return {this} Returns itself.
+     * @return {Loader} Returns itself.
      */
 
 
@@ -38991,7 +39675,7 @@ var Loader = exports.Loader = function () {
     /**
      * Resets the queue of the loader to prepare for a new load.
      *
-     * @return {this} Returns itself.
+     * @return {Loader} Returns itself.
      */
 
 
@@ -39024,7 +39708,7 @@ var Loader = exports.Loader = function () {
      * Starts loading the queued resources.
      *
      * @param {function} [cb] - Optional callback that will be bound to the `complete` event.
-     * @return {this} Returns itself.
+     * @return {Loader} Returns itself.
      */
 
 
@@ -39039,35 +39723,24 @@ var Loader = exports.Loader = function () {
             return this;
         }
 
-        if (this._queue.idle()) {
-            this._onStart();
-            this._onComplete();
-        } else {
-            // distribute progress chunks
-            var numTasks = this._queue._tasks.length;
-            var chunk = MAX_PROGRESS / numTasks;
+        // distribute progress chunks
+        var chunk = 100 / this._queue._tasks.length;
 
-            for (var i = 0; i < this._queue._tasks.length; ++i) {
-                this._queue._tasks[i].data.progressChunk = chunk;
-            }
-
-            // notify we are starting
-            this._onStart();
-
-            // start loading
-            this._queue.resume();
+        for (var i = 0; i < this._queue._tasks.length; ++i) {
+            this._queue._tasks[i].data.progressChunk = chunk;
         }
+
+        // update loading state
+        this.loading = true;
+
+        // notify of start
+        this.onStart.dispatch(this);
+
+        // start loading
+        this._queue.resume();
 
         return this;
     };
-
-    /**
-     * The number of resources to load concurrently.
-     *
-     * @member {number}
-     * @default 10
-     */
-
 
     /**
      * Prepares a url for usage based on the configuration of this object
@@ -39076,6 +39749,8 @@ var Loader = exports.Loader = function () {
      * @param {string} url - The url to prepare.
      * @return {string} The prepared url.
      */
+
+
     Loader.prototype._prepareUrl = function _prepareUrl(url) {
         var parsedUrl = (0, _parseUri2.default)(url, { strictMode: true });
         var result = void 0;
@@ -39141,19 +39816,6 @@ var Loader = exports.Loader = function () {
     };
 
     /**
-     * Called once loading has started.
-     *
-     * @private
-     */
-
-
-    Loader.prototype._onStart = function _onStart() {
-        this.progress = 0;
-        this.loading = true;
-        this.onStart.dispatch(this);
-    };
-
-    /**
      * Called once each resource has loaded.
      *
      * @private
@@ -39161,8 +39823,8 @@ var Loader = exports.Loader = function () {
 
 
     Loader.prototype._onComplete = function _onComplete() {
-        this.progress = MAX_PROGRESS;
         this.loading = false;
+
         this.onComplete.dispatch(this, this.resources);
     };
 
@@ -39189,7 +39851,7 @@ var Loader = exports.Loader = function () {
         }, function () {
             resource.onAfterMiddleware.dispatch(resource);
 
-            _this3.progress = Math.min(MAX_PROGRESS, _this3.progress + resource.progressChunk);
+            _this3.progress += resource.progressChunk;
             _this3.onProgress.dispatch(_this3, resource);
 
             if (resource.error) {
@@ -39202,73 +39864,16 @@ var Loader = exports.Loader = function () {
 
             // do completion check
             if (_this3._queue.idle() && _this3._resourcesParsing.length === 0) {
+                _this3.progress = MAX_PROGRESS;
                 _this3._onComplete();
             }
         }, true);
     };
 
-    _createClass(Loader, [{
-        key: 'concurrency',
-        get: function get() {
-            return this._queue.concurrency;
-        }
-        // eslint-disable-next-line require-jsdoc
-        ,
-        set: function set(concurrency) {
-            this._queue.concurrency = concurrency;
-        }
-    }]);
-
     return Loader;
 }();
 
-/**
- * A default array of middleware to run before loading each resource.
- * Each of these middlewares are added to any new Loader instances when they are created.
- *
- * @private
- * @member {function[]}
- */
-
-
-Loader._defaultBeforeMiddleware = [];
-
-/**
- * A default array of middleware to run after loading each resource.
- * Each of these middlewares are added to any new Loader instances when they are created.
- *
- * @private
- * @member {function[]}
- */
-Loader._defaultAfterMiddleware = [];
-
-/**
- * Sets up a middleware function that will run *before* the
- * resource is loaded.
- *
- * @static
- * @param {function} fn - The middleware function to register.
- * @return {Loader} Returns itself.
- */
-Loader.pre = function LoaderPreStatic(fn) {
-    Loader._defaultBeforeMiddleware.push(fn);
-
-    return Loader;
-};
-
-/**
- * Sets up a middleware function that will run *after* the
- * resource is loaded.
- *
- * @static
- * @param {function} fn - The middleware function to register.
- * @return {Loader} Returns itself.
- */
-Loader.use = function LoaderUseStatic(fn) {
-    Loader._defaultAfterMiddleware.push(fn);
-
-    return Loader;
-};
+exports.default = Loader;
 //# sourceMappingURL=Loader.js.map
 
 /***/ }),
@@ -39280,7 +39885,6 @@ Loader.use = function LoaderUseStatic(fn) {
 
 
 exports.__esModule = true;
-exports.Resource = undefined;
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -39296,7 +39900,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-// tests if CORS is supported in XHR, if not we need to use XDR
+// tests is CORS is supported in XHR, if not we need to use XDR
 var useXdr = !!(window.XDomainRequest && !('withCredentials' in new XMLHttpRequest()));
 var tempAnchor = null;
 
@@ -39316,7 +39920,7 @@ function _noop() {} /* empty */
  * @class
  */
 
-var Resource = exports.Resource = function () {
+var Resource = function () {
     /**
      * Sets the load type to be used for a specific extension.
      *
@@ -39348,14 +39952,18 @@ var Resource = exports.Resource = function () {
      * @param {object} [options] - The options for the load.
      * @param {string|boolean} [options.crossOrigin] - Is this request cross-origin? Default is to
      *      determine automatically.
-     * @param {number} [options.timeout=0] - A timeout in milliseconds for the load. If the load takes
-     *      longer than this time it is cancelled and the load is considered a failure. If this value is
-     *      set to `0` then there is no explicit timeout.
      * @param {Resource.LOAD_TYPE} [options.loadType=Resource.LOAD_TYPE.XHR] - How should this resource
      *      be loaded?
      * @param {Resource.XHR_RESPONSE_TYPE} [options.xhrType=Resource.XHR_RESPONSE_TYPE.DEFAULT] - How
      *      should the data being loaded be interpreted when using XHR?
-     * @param {Resource.IMetadata} [options.metadata] - Extra configuration for middleware and the Resource object.
+     * @param {object} [options.metadata] - Extra configuration for middleware and the Resource object.
+     * @param {HTMLImageElement|HTMLAudioElement|HTMLVideoElement} [options.metadata.loadElement=null] - The
+     *      element to use for loading, instead of creating one.
+     * @param {boolean} [options.metadata.skipSource=false] - Skips adding source(s) to the load element. This
+     *      is useful if you want to pass in a `loadElement` that you already added load sources to.
+     * @param {string|string[]} [options.metadata.mimeType] - The mime type to use for the source element of a video/audio
+     *      elment. If the urls are an array, you can pass this as an array as well where each index is the mime type to
+     *      use for the corresponding url index.
      */
 
 
@@ -39371,7 +39979,6 @@ var Resource = exports.Resource = function () {
         /**
          * The state flags of this resource.
          *
-         * @private
          * @member {number}
          */
         this._flags = 0;
@@ -39382,24 +39989,24 @@ var Resource = exports.Resource = function () {
         /**
          * The name of this resource.
          *
-         * @readonly
          * @member {string}
+         * @readonly
          */
         this.name = name;
 
         /**
          * The url used to load this resource.
          *
-         * @readonly
          * @member {string}
+         * @readonly
          */
         this.url = url;
 
         /**
          * The extension used to load this resource.
          *
-         * @readonly
          * @member {string}
+         * @readonly
          */
         this.extension = this._getExtension();
 
@@ -39416,15 +40023,6 @@ var Resource = exports.Resource = function () {
          * @member {string}
          */
         this.crossOrigin = options.crossOrigin === true ? 'anonymous' : options.crossOrigin;
-
-        /**
-         * A timeout in milliseconds for the load. If the load takes longer than this time
-         * it is cancelled and the load is considered a failure. If this value is set to `0`
-         * then there is no explicit timeout.
-         *
-         * @member {number}
-         */
-        this.timeout = options.timeout || 0;
 
         /**
          * The method of loading to use for this resource.
@@ -39446,15 +40044,20 @@ var Resource = exports.Resource = function () {
          * Note that if you pass in a `loadElement`, the Resource class takes ownership of it.
          * Meaning it will modify it as it sees fit.
          *
-         * @member {Resource.IMetadata}
+         * @member {object}
+         * @property {HTMLImageElement|HTMLAudioElement|HTMLVideoElement} [loadElement=null] - The
+         *  element to use for loading, instead of creating one.
+         * @property {boolean} [skipSource=false] - Skips adding source(s) to the load element. This
+         *  is useful if you want to pass in a `loadElement` that you already added load sources
+         *  to.
          */
         this.metadata = options.metadata || {};
 
         /**
          * The error that occurred while loading (if any).
          *
-         * @readonly
          * @member {Error}
+         * @readonly
          */
         this.error = null;
 
@@ -39462,32 +40065,32 @@ var Resource = exports.Resource = function () {
          * The XHR object that was used to load this resource. This is only set
          * when `loadType` is `Resource.LOAD_TYPE.XHR`.
          *
-         * @readonly
          * @member {XMLHttpRequest}
+         * @readonly
          */
         this.xhr = null;
 
         /**
          * The child resources this resource owns.
          *
-         * @readonly
          * @member {Resource[]}
+         * @readonly
          */
         this.children = [];
 
         /**
          * The resource type.
          *
-         * @readonly
          * @member {Resource.TYPE}
+         * @readonly
          */
         this.type = Resource.TYPE.UNKNOWN;
 
         /**
          * The progress chunk owned by this resource.
          *
-         * @readonly
          * @member {number}
+         * @readonly
          */
         this.progressChunk = 0;
 
@@ -39507,14 +40110,6 @@ var Resource = exports.Resource = function () {
          * @member {function}
          */
         this._onLoadBinding = null;
-
-        /**
-         * The timer for element loads to check if they timeout.
-         *
-         * @private
-         * @member {number}
-         */
-        this._elementTimer = 0;
 
         /**
          * The `complete` function bound to this resource's context.
@@ -39540,26 +40135,18 @@ var Resource = exports.Resource = function () {
          */
         this._boundOnProgress = this._onProgress.bind(this);
 
-        /**
-         * The `_onTimeout` function bound to this resource's context.
-         *
-         * @private
-         * @member {function}
-         */
-        this._boundOnTimeout = this._onTimeout.bind(this);
-
         // xhr callbacks
         this._boundXhrOnError = this._xhrOnError.bind(this);
-        this._boundXhrOnTimeout = this._xhrOnTimeout.bind(this);
         this._boundXhrOnAbort = this._xhrOnAbort.bind(this);
         this._boundXhrOnLoad = this._xhrOnLoad.bind(this);
+        this._boundXdrOnTimeout = this._xdrOnTimeout.bind(this);
 
         /**
          * Dispatched when the resource beings to load.
          *
          * The callback looks like {@link Resource.OnStartSignal}.
          *
-         * @member {Signal<Resource.OnStartSignal>}
+         * @member {Signal}
          */
         this.onStart = new _miniSignals2.default();
 
@@ -39572,7 +40159,7 @@ var Resource = exports.Resource = function () {
          *
          * The callback looks like {@link Resource.OnProgressSignal}.
          *
-         * @member {Signal<Resource.OnProgressSignal>}
+         * @member {Signal}
          */
         this.onProgress = new _miniSignals2.default();
 
@@ -39582,7 +40169,7 @@ var Resource = exports.Resource = function () {
          *
          * The callback looks like {@link Resource.OnCompleteSignal}.
          *
-         * @member {Signal<Resource.OnCompleteSignal>}
+         * @member {Signal}
          */
         this.onComplete = new _miniSignals2.default();
 
@@ -39591,53 +40178,41 @@ var Resource = exports.Resource = function () {
          *
          * The callback looks like {@link Resource.OnCompleteSignal}.
          *
-         * @member {Signal<Resource.OnCompleteSignal>}
+         * @member {Signal}
          */
         this.onAfterMiddleware = new _miniSignals2.default();
+
+        /**
+         * When the resource starts to load.
+         *
+         * @memberof Resource
+         * @callback OnStartSignal
+         * @param {Resource} resource - The resource that the event happened on.
+         */
+
+        /**
+         * When the resource reports loading progress.
+         *
+         * @memberof Resource
+         * @callback OnProgressSignal
+         * @param {Resource} resource - The resource that the event happened on.
+         * @param {number} percentage - The progress of the load in the range [0, 1].
+         */
+
+        /**
+         * When the resource finishes loading.
+         *
+         * @memberof Resource
+         * @callback OnCompleteSignal
+         * @param {Resource} resource - The resource that the event happened on.
+         */
     }
-
-    /**
-     * When the resource starts to load.
-     *
-     * @memberof Resource
-     * @callback OnStartSignal
-     * @param {Resource} resource - The resource that the event happened on.
-     */
-
-    /**
-     * When the resource reports loading progress.
-     *
-     * @memberof Resource
-     * @callback OnProgressSignal
-     * @param {Resource} resource - The resource that the event happened on.
-     * @param {number} percentage - The progress of the load in the range [0, 1].
-     */
-
-    /**
-     * When the resource finishes loading.
-     *
-     * @memberof Resource
-     * @callback OnCompleteSignal
-     * @param {Resource} resource - The resource that the event happened on.
-     */
-
-    /**
-     * @memberof Resource
-     * @typedef {object} IMetadata
-     * @property {HTMLImageElement|HTMLAudioElement|HTMLVideoElement} [loadElement=null] - The
-     *      element to use for loading, instead of creating one.
-     * @property {boolean} [skipSource=false] - Skips adding source(s) to the load element. This
-     *      is useful if you want to pass in a `loadElement` that you already added load sources to.
-     * @property {string|string[]} [mimeType] - The mime type to use for the source element
-     *      of a video/audio elment. If the urls are an array, you can pass this as an array as well
-     *      where each index is the mime type to use for the corresponding url index.
-     */
 
     /**
      * Stores whether or not this url is a data url.
      *
-     * @readonly
      * @member {boolean}
+     * @readonly
      */
 
 
@@ -39646,8 +40221,36 @@ var Resource = exports.Resource = function () {
      *
      */
     Resource.prototype.complete = function complete() {
-        this._clearEvents();
-        this._finish();
+        // TODO: Clean this up in a wrapper or something...gross....
+        if (this.data && this.data.removeEventListener) {
+            this.data.removeEventListener('error', this._boundOnError, false);
+            this.data.removeEventListener('load', this._boundComplete, false);
+            this.data.removeEventListener('progress', this._boundOnProgress, false);
+            this.data.removeEventListener('canplaythrough', this._boundComplete, false);
+        }
+
+        if (this.xhr) {
+            if (this.xhr.removeEventListener) {
+                this.xhr.removeEventListener('error', this._boundXhrOnError, false);
+                this.xhr.removeEventListener('abort', this._boundXhrOnAbort, false);
+                this.xhr.removeEventListener('progress', this._boundOnProgress, false);
+                this.xhr.removeEventListener('load', this._boundXhrOnLoad, false);
+            } else {
+                this.xhr.onerror = null;
+                this.xhr.ontimeout = null;
+                this.xhr.onprogress = null;
+                this.xhr.onload = null;
+            }
+        }
+
+        if (this.isComplete) {
+            throw new Error('Complete called again for an already completed resource.');
+        }
+
+        this._setFlag(Resource.STATUS_FLAGS.COMPLETE, true);
+        this._setFlag(Resource.STATUS_FLAGS.LOADING, false);
+
+        this.onComplete.dispatch(this);
     };
 
     /**
@@ -39665,9 +40268,6 @@ var Resource = exports.Resource = function () {
 
         // store error
         this.error = new Error(message);
-
-        // clear events before calling aborts
-        this._clearEvents();
 
         // abort the actual loading
         if (this.xhr) {
@@ -39688,13 +40288,13 @@ var Resource = exports.Resource = function () {
         }
 
         // done now.
-        this._finish();
+        this.complete();
     };
 
     /**
      * Kicks off loading of this resource. This method is asynchronous.
      *
-     * @param {Resource.OnCompleteSignal} [cb] - Optional callback to call once the resource is loaded.
+     * @param {function} [cb] - Optional callback to call once the resource is loaded.
      */
 
 
@@ -39764,7 +40364,7 @@ var Resource = exports.Resource = function () {
 
 
     Resource.prototype._hasFlag = function _hasFlag(flag) {
-        return (this._flags & flag) !== 0;
+        return !!(this._flags & flag);
     };
 
     /**
@@ -39778,57 +40378,6 @@ var Resource = exports.Resource = function () {
 
     Resource.prototype._setFlag = function _setFlag(flag, value) {
         this._flags = value ? this._flags | flag : this._flags & ~flag;
-    };
-
-    /**
-     * Clears all the events from the underlying loading source.
-     *
-     * @private
-     */
-
-
-    Resource.prototype._clearEvents = function _clearEvents() {
-        clearTimeout(this._elementTimer);
-
-        if (this.data && this.data.removeEventListener) {
-            this.data.removeEventListener('error', this._boundOnError, false);
-            this.data.removeEventListener('load', this._boundComplete, false);
-            this.data.removeEventListener('progress', this._boundOnProgress, false);
-            this.data.removeEventListener('canplaythrough', this._boundComplete, false);
-        }
-
-        if (this.xhr) {
-            if (this.xhr.removeEventListener) {
-                this.xhr.removeEventListener('error', this._boundXhrOnError, false);
-                this.xhr.removeEventListener('timeout', this._boundXhrOnTimeout, false);
-                this.xhr.removeEventListener('abort', this._boundXhrOnAbort, false);
-                this.xhr.removeEventListener('progress', this._boundOnProgress, false);
-                this.xhr.removeEventListener('load', this._boundXhrOnLoad, false);
-            } else {
-                this.xhr.onerror = null;
-                this.xhr.ontimeout = null;
-                this.xhr.onprogress = null;
-                this.xhr.onload = null;
-            }
-        }
-    };
-
-    /**
-     * Finalizes the load.
-     *
-     * @private
-     */
-
-
-    Resource.prototype._finish = function _finish() {
-        if (this.isComplete) {
-            throw new Error('Complete called again for an already completed resource.');
-        }
-
-        this._setFlag(Resource.STATUS_FLAGS.COMPLETE, true);
-        this._setFlag(Resource.STATUS_FLAGS.LOADING, false);
-
-        this.onComplete.dispatch(this);
     };
 
     /**
@@ -39860,10 +40409,6 @@ var Resource = exports.Resource = function () {
         this.data.addEventListener('error', this._boundOnError, false);
         this.data.addEventListener('load', this._boundComplete, false);
         this.data.addEventListener('progress', this._boundOnProgress, false);
-
-        if (this.timeout) {
-            this._elementTimer = setTimeout(this._boundOnTimeout, this.timeout);
-        }
     };
 
     /**
@@ -39890,10 +40435,6 @@ var Resource = exports.Resource = function () {
             return;
         }
 
-        if (this.crossOrigin) {
-            this.data.crossOrigin = this.crossOrigin;
-        }
-
         if (!this.metadata.skipSource) {
             // support for CocoonJS Canvas+ runtime, lacks document.createElement('source')
             if (navigator.isCocoonJS) {
@@ -39917,10 +40458,6 @@ var Resource = exports.Resource = function () {
         this.data.addEventListener('canplaythrough', this._boundComplete, false);
 
         this.data.load();
-
-        if (this.timeout) {
-            this._elementTimer = setTimeout(this._boundOnTimeout, this.timeout);
-        }
     };
 
     /**
@@ -39941,8 +40478,6 @@ var Resource = exports.Resource = function () {
         // set the request type and url
         xhr.open('GET', this.url, true);
 
-        xhr.timeout = this.timeout;
-
         // load json as text and parse it ourselves. We do this because some browsers
         // *cough* safari *cough* can't deal with it.
         if (this.xhrType === Resource.XHR_RESPONSE_TYPE.JSON || this.xhrType === Resource.XHR_RESPONSE_TYPE.DOCUMENT) {
@@ -39952,7 +40487,6 @@ var Resource = exports.Resource = function () {
         }
 
         xhr.addEventListener('error', this._boundXhrOnError, false);
-        xhr.addEventListener('timeout', this._boundXhrOnTimeout, false);
         xhr.addEventListener('abort', this._boundXhrOnAbort, false);
         xhr.addEventListener('progress', this._boundOnProgress, false);
         xhr.addEventListener('load', this._boundXhrOnLoad, false);
@@ -39973,15 +40507,15 @@ var Resource = exports.Resource = function () {
             this.xhrType = this._determineXhrType();
         }
 
-        var xdr = this.xhr = new XDomainRequest(); // eslint-disable-line no-undef
+        var xdr = this.xhr = new XDomainRequest();
 
         // XDomainRequest has a few quirks. Occasionally it will abort requests
         // A way to avoid this is to make sure ALL callbacks are set even if not used
         // More info here: http://stackoverflow.com/questions/15786966/xdomainrequest-aborts-post-on-ie-9
-        xdr.timeout = this.timeout || 5000; // XDR needs a timeout value or it breaks in IE9
+        xdr.timeout = 5000;
 
         xdr.onerror = this._boundXhrOnError;
-        xdr.ontimeout = this._boundXhrOnTimeout;
+        xdr.ontimeout = this._boundXdrOnTimeout;
         xdr.onprogress = this._boundOnProgress;
         xdr.onload = this._boundXhrOnLoad;
 
@@ -40033,7 +40567,7 @@ var Resource = exports.Resource = function () {
     };
 
     /**
-     * Called if a load progress event fires for an element or xhr/xdr.
+     * Called if a load progress event fires for xhr/xdr.
      *
      * @private
      * @param {XMLHttpRequestProgressEvent|Event} event - Progress event.
@@ -40047,20 +40581,10 @@ var Resource = exports.Resource = function () {
     };
 
     /**
-     * Called if a timeout event fires for an element.
-     *
-     * @private
-     */
-
-
-    Resource.prototype._onTimeout = function _onTimeout() {
-        this.abort('Load timed out.');
-    };
-
-    /**
      * Called if an error event fires for xhr/xdr.
      *
      * @private
+     * @param {XMLHttpRequestErrorEvent|Event} event - Error event.
      */
 
 
@@ -40071,29 +40595,27 @@ var Resource = exports.Resource = function () {
     };
 
     /**
-     * Called if an error event fires for xhr/xdr.
+     * Called if an abort event fires for xhr.
      *
      * @private
-     */
-
-
-    Resource.prototype._xhrOnTimeout = function _xhrOnTimeout() {
-        var xhr = this.xhr;
-
-        this.abort(reqType(xhr) + ' Request timed out.');
-    };
-
-    /**
-     * Called if an abort event fires for xhr/xdr.
-     *
-     * @private
+     * @param {XMLHttpRequestAbortEvent} event - Abort Event
      */
 
 
     Resource.prototype._xhrOnAbort = function _xhrOnAbort() {
-        var xhr = this.xhr;
+        this.abort(reqType(this.xhr) + ' Request was aborted by the user.');
+    };
 
-        this.abort(reqType(xhr) + ' Request was aborted by the user.');
+    /**
+     * Called if a timeout event fires for xdr.
+     *
+     * @private
+     * @param {Event} event - Timeout event.
+     */
+
+
+    Resource.prototype._xdrOnTimeout = function _xdrOnTimeout() {
+        this.abort(reqType(this.xhr) + ' Request timed out.');
     };
 
     /**
@@ -40116,7 +40638,7 @@ var Resource = exports.Resource = function () {
 
         // status can be 0 when using the `file://` protocol so we also check if a response is set.
         // If it has a response, we assume 200; otherwise a 0 status code with no contents is an aborted request.
-        if (status === STATUS_NONE && (text.length > 0 || xhr.responseType === Resource.XHR_RESPONSE_TYPE.BUFFER)) {
+        if (status === STATUS_NONE && text.length > 0) {
             status = STATUS_OK;
         }
         // handle IE9 bug: http://stackoverflow.com/questions/10046972/msie-returns-status-code-of-1223-for-ajax-request
@@ -40194,13 +40716,6 @@ var Resource = exports.Resource = function () {
         // data: and javascript: urls are considered same-origin
         if (url.indexOf('data:') === 0) {
             return '';
-        }
-
-        // A sandboxed iframe without the 'allow-same-origin' attribute will have a special
-        // origin designed not to match window.location.origin, and will always require
-        // crossOrigin requests regardless of whether the location matches.
-        if (window.origin !== window.location.origin) {
-            return 'anonymous';
         }
 
         // default is window.location
@@ -40310,6 +40825,7 @@ var Resource = exports.Resource = function () {
             /* falls through */
             default:
                 return 'text/plain';
+
         }
     };
 
@@ -40323,8 +40839,8 @@ var Resource = exports.Resource = function () {
          * Describes if this resource has finished loading. Is true when the resource has completely
          * loaded.
          *
-         * @readonly
          * @member {boolean}
+         * @readonly
          */
 
     }, {
@@ -40337,8 +40853,8 @@ var Resource = exports.Resource = function () {
          * Describes if this resource is currently loading. Is true when the resource starts loading,
          * and is false again when complete.
          *
-         * @readonly
          * @member {boolean}
+         * @readonly
          */
 
     }, {
@@ -40360,6 +40876,7 @@ var Resource = exports.Resource = function () {
  */
 
 
+exports.default = Resource;
 Resource.STATUS_FLAGS = {
     NONE: 0,
     DATA_URL: 1 << 0,
@@ -40519,11 +41036,6 @@ function setExtMap(map, extname, val) {
 function reqType(xhr) {
     return xhr.toString().replace('object ', '');
 }
-
-// Backwards compat
-if (true) {
-    module.exports.default = Resource; // eslint-disable-line no-undef
-}
 //# sourceMappingURL=Resource.js.map
 
 /***/ }),
@@ -40540,22 +41052,12 @@ exports.queue = queue;
 /**
  * Smaller version of the async library constructs.
  *
- * @namespace async
- */
-
-/**
- * Noop function
- *
- * @ignore
- * @function
- * @memberof async
  */
 function _noop() {} /* empty */
 
 /**
  * Iterates an array in series.
  *
- * @memberof async
  * @param {Array.<*>} array - Array to iterate.
  * @param {function} iterator - Function to call for each element.
  * @param {function} callback - Function to call when done, or on error.
@@ -40587,8 +41089,6 @@ function eachSeries(array, iterator, callback, deferNext) {
 /**
  * Ensures a function is only called once.
  *
- * @ignore
- * @memberof async
  * @param {function} fn - The function to wrap.
  * @return {function} The wrapping function.
  */
@@ -40608,7 +41108,6 @@ function onlyOnce(fn) {
 /**
  * Async queue implementation,
  *
- * @memberof async
  * @param {function} worker - The worker function to call for each task.
  * @param {number} concurrency - How many workers to run in parrallel.
  * @return {*} The async queue object.
@@ -40766,12 +41265,6 @@ exports.__esModule = true;
 exports.encodeBinary = encodeBinary;
 var _keyStr = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
 
-/**
- * Encodes binary into base64.
- *
- * @param {string} input The input data to encode.
- * @returns {string} The encoded base64 string
- */
 function encodeBinary(input) {
     var output = '';
     var inx = 0;
@@ -40832,11 +41325,6 @@ function encodeBinary(input) {
 
     return output;
 }
-
-// Backwards compat
-if (true) {
-    module.exports.default = encodeBinary; // eslint-disable-line no-undef
-}
 //# sourceMappingURL=b64.js.map
 
 /***/ }),
@@ -40854,51 +41342,18 @@ if (true) {
 
 /* eslint-disable no-undef */
 
-var Loader = __webpack_require__("./node_modules/resource-loader/lib/Loader.js").Loader;
-var Resource = __webpack_require__("./node_modules/resource-loader/lib/Resource.js").Resource;
+var Loader = __webpack_require__("./node_modules/resource-loader/lib/Loader.js").default;
+var Resource = __webpack_require__("./node_modules/resource-loader/lib/Resource.js").default;
 var async = __webpack_require__("./node_modules/resource-loader/lib/async.js");
 var b64 = __webpack_require__("./node_modules/resource-loader/lib/b64.js");
 
-/**
- *
- * @static
- * @memberof Loader
- * @member {Class<Resource>}
- */
 Loader.Resource = Resource;
-
-/**
- *
- * @static
- * @memberof Loader
- * @member {Class<async>}
- */
 Loader.async = async;
-
-/**
- *
- * @static
- * @memberof Loader
- * @member {Class<encodeBinary>}
- */
-Loader.encodeBinary = b64;
-
-/**
- *
- * @deprecated
- * @see Loader.encodeBinary
- *
- * @static
- * @memberof Loader
- * @member {Class<encodeBinary>}
- */
 Loader.base64 = b64;
 
 // export manually, and also as default
 module.exports = Loader;
-
-// default & named export
-module.exports.Loader = Loader;
+// export default Loader;
 module.exports.default = Loader;
 //# sourceMappingURL=index.js.map
 
@@ -40911,11 +41366,20 @@ module.exports.default = Loader;
 
 
 exports.__esModule = true;
+
+var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
+
 exports.blobMiddlewareFactory = blobMiddlewareFactory;
 
 var _Resource = __webpack_require__("./node_modules/resource-loader/lib/Resource.js");
 
+var _Resource2 = _interopRequireDefault(_Resource);
+
 var _b = __webpack_require__("./node_modules/resource-loader/lib/b64.js");
+
+var _b2 = _interopRequireDefault(_b);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var Url = window.URL || window.webkitURL;
 
@@ -40929,7 +41393,7 @@ function blobMiddlewareFactory() {
         }
 
         // if this was an XHR load of a blob
-        if (resource.xhr && resource.xhrType === _Resource.Resource.XHR_RESPONSE_TYPE.BLOB) {
+        if (resource.xhr && resource.xhrType === _Resource2.default.XHR_RESPONSE_TYPE.BLOB) {
             // if there is no blob support we probably got a binary string back
             if (!window.Blob || typeof resource.data === 'string') {
                 var type = resource.xhr.getResponseHeader('content-type');
@@ -40937,9 +41401,9 @@ function blobMiddlewareFactory() {
                 // this is an image, convert the binary string into a data url
                 if (type && type.indexOf('image') === 0) {
                     resource.data = new Image();
-                    resource.data.src = 'data:' + type + ';base64,' + (0, _b.encodeBinary)(resource.xhr.responseText);
+                    resource.data.src = 'data:' + type + ';base64,' + _b2.default.encodeBinary(resource.xhr.responseText);
 
-                    resource.type = _Resource.Resource.TYPE.IMAGE;
+                    resource.type = _Resource2.default.TYPE.IMAGE;
 
                     // wait until the image loads and then callback
                     resource.data.onload = function () {
@@ -40954,25 +41418,31 @@ function blobMiddlewareFactory() {
             }
             // if content type says this is an image, then we should transform the blob into an Image object
             else if (resource.data.type.indexOf('image') === 0) {
-                    var src = Url.createObjectURL(resource.data);
+                    var _ret = function () {
+                        var src = Url.createObjectURL(resource.data);
 
-                    resource.blob = resource.data;
-                    resource.data = new Image();
-                    resource.data.src = src;
+                        resource.blob = resource.data;
+                        resource.data = new Image();
+                        resource.data.src = src;
 
-                    resource.type = _Resource.Resource.TYPE.IMAGE;
+                        resource.type = _Resource2.default.TYPE.IMAGE;
 
-                    // cleanup the no longer used blob after the image loads
-                    // TODO: Is this correct? Will the image be invalid after revoking?
-                    resource.data.onload = function () {
-                        Url.revokeObjectURL(src);
-                        resource.data.onload = null;
+                        // cleanup the no longer used blob after the image loads
+                        // TODO: Is this correct? Will the image be invalid after revoking?
+                        resource.data.onload = function () {
+                            Url.revokeObjectURL(src);
+                            resource.data.onload = null;
 
-                        next();
-                    };
+                            next();
+                        };
 
-                    // next will be called on load.
-                    return;
+                        // next will be called on load.
+                        return {
+                            v: void 0
+                        };
+                    }();
+
+                    if ((typeof _ret === 'undefined' ? 'undefined' : _typeof(_ret)) === "object") return _ret.v;
                 }
         }
 
@@ -41031,7 +41501,7 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5v
 
 
 
-var punycode = __webpack_require__("./node_modules/webpack/node_modules/punycode/punycode.js");
+var punycode = __webpack_require__("./node_modules/punycode/punycode.js");
 var util = __webpack_require__("./node_modules/url/util.js");
 
 exports.parse = urlParse;
@@ -41768,7 +42238,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-274461ce\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/Avatar/pixi.vue":
+/***/ "./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-1aea0006\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/Avatar/pixi.vue":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -41833,13 +42303,13 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-    require("vue-hot-reload-api")      .rerender("data-v-274461ce", esExports)
+    require("vue-hot-reload-api")      .rerender("data-v-1aea0006", esExports)
   }
 }
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-343bfe20\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/BgPattern/pixi.vue":
+/***/ "./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-5c0917b8\",\"hasScoped\":false,\"transformToRequire\":{\"video\":\"src\",\"source\":\"src\",\"img\":\"src\",\"image\":\"xlink:href\"},\"preserveWhitespace\":false,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./app/assets/js/objects/BgPattern/pixi.vue":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -41885,29 +42355,29 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-    require("vue-hot-reload-api")      .rerender("data-v-343bfe20", esExports)
+    require("vue-hot-reload-api")      .rerender("data-v-5c0917b8", esExports)
   }
 }
 
 /***/ }),
 
-/***/ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss":
+/***/ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss":
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__("./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss");
+var content = __webpack_require__("./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./app/assets/js/objects/Avatar/avatar.scss");
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__("./node_modules/vue-style-loader/lib/addStylesClient.js")("4120b819", content, false);
+var update = __webpack_require__("./node_modules/vue-style-loader/lib/addStylesClient.js")("1c4f002c", content, false);
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./avatar.scss", function() {
-     var newContent = require("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-274461ce\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./avatar.scss");
+   module.hot.accept("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./avatar.scss", function() {
+     var newContent = require("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-1aea0006\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./avatar.scss");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
@@ -41918,23 +42388,23 @@ if(false) {
 
 /***/ }),
 
-/***/ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue":
+/***/ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue":
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__("./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue");
+var content = __webpack_require__("./node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!./node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!./node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!./node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./app/assets/js/objects/BgPattern/pixi.vue");
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__("./node_modules/vue-style-loader/lib/addStylesClient.js")("57c80cf3", content, false);
+var update = __webpack_require__("./node_modules/vue-style-loader/lib/addStylesClient.js")("59d1e4a0", content, false);
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!../../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./pixi.vue", function() {
-     var newContent = require("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-343bfe20\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\User\\\\IdeaProjects\\\\marco.solazzi.me\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!../../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./pixi.vue");
+   module.hot.accept("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!../../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./pixi.vue", function() {
+     var newContent = require("!!../../../../../node_modules/css-loader/index.js?{\"sourceMap\":true,\"localIdentName\":\"[name]__[local]---[hash:base64:5]_0\",\"importLoaders\":1,\"camelCase\":true,\"modules\":true}!../../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-5c0917b8\",\"scoped\":false,\"hasInlineConfig\":false}!../../../../../node_modules/resolve-url-loader/index.js?{\"sourceMap\":true,\"absolute\":false,\"fail\":false,\"silent\":false,\"keepQuery\":false,\"debug\":false,\"root\":null,\"includeRoot\":false}!../../../../../node_modules/sass-loader/lib/loader.js?{\"sourceMap\":true,\"precision\":10,\"includePaths\":[\"C:\\\\Users\\\\Oliver\\\\Desktop\\\\olishiz-marco-personal-site\\\\app\\\\assets\\\\styles\",\"node_modules\"],\"outputStyle\":\"expanded\"}!../../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./pixi.vue");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
@@ -41971,857 +42441,6 @@ module.exports = function(module) {
 	return module;
 };
 
-
-/***/ }),
-
-/***/ "./node_modules/webpack/node_modules/path-browserify/index.js":
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(process) {// .dirname, .basename, and .extname methods are extracted from Node.js v8.11.1,
-// backported and transplited with Babel, with backwards-compat fixes
-
-// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-// resolves . and .. elements in a path array with directory names there
-// must be no slashes, empty elements, or device names (c:\) in the array
-// (so also no leading and trailing slashes - it does not distinguish
-// relative and absolute paths)
-function normalizeArray(parts, allowAboveRoot) {
-  // if the path tries to go above the root, `up` ends up > 0
-  var up = 0;
-  for (var i = parts.length - 1; i >= 0; i--) {
-    var last = parts[i];
-    if (last === '.') {
-      parts.splice(i, 1);
-    } else if (last === '..') {
-      parts.splice(i, 1);
-      up++;
-    } else if (up) {
-      parts.splice(i, 1);
-      up--;
-    }
-  }
-
-  // if the path is allowed to go above the root, restore leading ..s
-  if (allowAboveRoot) {
-    for (; up--; up) {
-      parts.unshift('..');
-    }
-  }
-
-  return parts;
-}
-
-// path.resolve([from ...], to)
-// posix version
-exports.resolve = function() {
-  var resolvedPath = '',
-      resolvedAbsolute = false;
-
-  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
-    var path = (i >= 0) ? arguments[i] : process.cwd();
-
-    // Skip empty and invalid entries
-    if (typeof path !== 'string') {
-      throw new TypeError('Arguments to path.resolve must be strings');
-    } else if (!path) {
-      continue;
-    }
-
-    resolvedPath = path + '/' + resolvedPath;
-    resolvedAbsolute = path.charAt(0) === '/';
-  }
-
-  // At this point the path should be resolved to a full absolute path, but
-  // handle relative paths to be safe (might happen when process.cwd() fails)
-
-  // Normalize the path
-  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
-    return !!p;
-  }), !resolvedAbsolute).join('/');
-
-  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
-};
-
-// path.normalize(path)
-// posix version
-exports.normalize = function(path) {
-  var isAbsolute = exports.isAbsolute(path),
-      trailingSlash = substr(path, -1) === '/';
-
-  // Normalize the path
-  path = normalizeArray(filter(path.split('/'), function(p) {
-    return !!p;
-  }), !isAbsolute).join('/');
-
-  if (!path && !isAbsolute) {
-    path = '.';
-  }
-  if (path && trailingSlash) {
-    path += '/';
-  }
-
-  return (isAbsolute ? '/' : '') + path;
-};
-
-// posix version
-exports.isAbsolute = function(path) {
-  return path.charAt(0) === '/';
-};
-
-// posix version
-exports.join = function() {
-  var paths = Array.prototype.slice.call(arguments, 0);
-  return exports.normalize(filter(paths, function(p, index) {
-    if (typeof p !== 'string') {
-      throw new TypeError('Arguments to path.join must be strings');
-    }
-    return p;
-  }).join('/'));
-};
-
-
-// path.relative(from, to)
-// posix version
-exports.relative = function(from, to) {
-  from = exports.resolve(from).substr(1);
-  to = exports.resolve(to).substr(1);
-
-  function trim(arr) {
-    var start = 0;
-    for (; start < arr.length; start++) {
-      if (arr[start] !== '') break;
-    }
-
-    var end = arr.length - 1;
-    for (; end >= 0; end--) {
-      if (arr[end] !== '') break;
-    }
-
-    if (start > end) return [];
-    return arr.slice(start, end - start + 1);
-  }
-
-  var fromParts = trim(from.split('/'));
-  var toParts = trim(to.split('/'));
-
-  var length = Math.min(fromParts.length, toParts.length);
-  var samePartsLength = length;
-  for (var i = 0; i < length; i++) {
-    if (fromParts[i] !== toParts[i]) {
-      samePartsLength = i;
-      break;
-    }
-  }
-
-  var outputParts = [];
-  for (var i = samePartsLength; i < fromParts.length; i++) {
-    outputParts.push('..');
-  }
-
-  outputParts = outputParts.concat(toParts.slice(samePartsLength));
-
-  return outputParts.join('/');
-};
-
-exports.sep = '/';
-exports.delimiter = ':';
-
-exports.dirname = function (path) {
-  if (typeof path !== 'string') path = path + '';
-  if (path.length === 0) return '.';
-  var code = path.charCodeAt(0);
-  var hasRoot = code === 47 /*/*/;
-  var end = -1;
-  var matchedSlash = true;
-  for (var i = path.length - 1; i >= 1; --i) {
-    code = path.charCodeAt(i);
-    if (code === 47 /*/*/) {
-        if (!matchedSlash) {
-          end = i;
-          break;
-        }
-      } else {
-      // We saw the first non-path separator
-      matchedSlash = false;
-    }
-  }
-
-  if (end === -1) return hasRoot ? '/' : '.';
-  if (hasRoot && end === 1) {
-    // return '//';
-    // Backwards-compat fix:
-    return '/';
-  }
-  return path.slice(0, end);
-};
-
-function basename(path) {
-  if (typeof path !== 'string') path = path + '';
-
-  var start = 0;
-  var end = -1;
-  var matchedSlash = true;
-  var i;
-
-  for (i = path.length - 1; i >= 0; --i) {
-    if (path.charCodeAt(i) === 47 /*/*/) {
-        // If we reached a path separator that was not part of a set of path
-        // separators at the end of the string, stop now
-        if (!matchedSlash) {
-          start = i + 1;
-          break;
-        }
-      } else if (end === -1) {
-      // We saw the first non-path separator, mark this as the end of our
-      // path component
-      matchedSlash = false;
-      end = i + 1;
-    }
-  }
-
-  if (end === -1) return '';
-  return path.slice(start, end);
-}
-
-// Uses a mixed approach for backwards-compatibility, as ext behavior changed
-// in new Node.js versions, so only basename() above is backported here
-exports.basename = function (path, ext) {
-  var f = basename(path);
-  if (ext && f.substr(-1 * ext.length) === ext) {
-    f = f.substr(0, f.length - ext.length);
-  }
-  return f;
-};
-
-exports.extname = function (path) {
-  if (typeof path !== 'string') path = path + '';
-  var startDot = -1;
-  var startPart = 0;
-  var end = -1;
-  var matchedSlash = true;
-  // Track the state of characters (if any) we see before our first dot and
-  // after any path separator we find
-  var preDotState = 0;
-  for (var i = path.length - 1; i >= 0; --i) {
-    var code = path.charCodeAt(i);
-    if (code === 47 /*/*/) {
-        // If we reached a path separator that was not part of a set of path
-        // separators at the end of the string, stop now
-        if (!matchedSlash) {
-          startPart = i + 1;
-          break;
-        }
-        continue;
-      }
-    if (end === -1) {
-      // We saw the first non-path separator, mark this as the end of our
-      // extension
-      matchedSlash = false;
-      end = i + 1;
-    }
-    if (code === 46 /*.*/) {
-        // If this is our first dot, mark it as the start of our extension
-        if (startDot === -1)
-          startDot = i;
-        else if (preDotState !== 1)
-          preDotState = 1;
-    } else if (startDot !== -1) {
-      // We saw a non-dot and non-path separator before our dot, so we should
-      // have a good chance at having a non-empty extension
-      preDotState = -1;
-    }
-  }
-
-  if (startDot === -1 || end === -1 ||
-      // We saw a non-dot character immediately before the dot
-      preDotState === 0 ||
-      // The (right-most) trimmed path component is exactly '..'
-      preDotState === 1 && startDot === end - 1 && startDot === startPart + 1) {
-    return '';
-  }
-  return path.slice(startDot, end);
-};
-
-function filter (xs, f) {
-    if (xs.filter) return xs.filter(f);
-    var res = [];
-    for (var i = 0; i < xs.length; i++) {
-        if (f(xs[i], i, xs)) res.push(xs[i]);
-    }
-    return res;
-}
-
-// String.prototype.substr - negative index don't work in IE8
-var substr = 'ab'.substr(-1) === 'b'
-    ? function (str, start, len) { return str.substr(start, len) }
-    : function (str, start, len) {
-        if (start < 0) start = str.length + start;
-        return str.substr(start, len);
-    }
-;
-
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__("./node_modules/process/browser.js")))
-
-/***/ }),
-
-/***/ "./node_modules/webpack/node_modules/punycode/punycode.js":
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(module, global) {/*! https://mths.be/punycode v1.4.1 by @mathias */
-;(function(root) {
-
-	/** Detect free variables */
-	var freeExports = typeof exports == 'object' && exports &&
-		!exports.nodeType && exports;
-	var freeModule = typeof module == 'object' && module &&
-		!module.nodeType && module;
-	var freeGlobal = typeof global == 'object' && global;
-	if (
-		freeGlobal.global === freeGlobal ||
-		freeGlobal.window === freeGlobal ||
-		freeGlobal.self === freeGlobal
-	) {
-		root = freeGlobal;
-	}
-
-	/**
-	 * The `punycode` object.
-	 * @name punycode
-	 * @type Object
-	 */
-	var punycode,
-
-	/** Highest positive signed 32-bit float value */
-	maxInt = 2147483647, // aka. 0x7FFFFFFF or 2^31-1
-
-	/** Bootstring parameters */
-	base = 36,
-	tMin = 1,
-	tMax = 26,
-	skew = 38,
-	damp = 700,
-	initialBias = 72,
-	initialN = 128, // 0x80
-	delimiter = '-', // '\x2D'
-
-	/** Regular expressions */
-	regexPunycode = /^xn--/,
-	regexNonASCII = /[^\x20-\x7E]/, // unprintable ASCII chars + non-ASCII chars
-	regexSeparators = /[\x2E\u3002\uFF0E\uFF61]/g, // RFC 3490 separators
-
-	/** Error messages */
-	errors = {
-		'overflow': 'Overflow: input needs wider integers to process',
-		'not-basic': 'Illegal input >= 0x80 (not a basic code point)',
-		'invalid-input': 'Invalid input'
-	},
-
-	/** Convenience shortcuts */
-	baseMinusTMin = base - tMin,
-	floor = Math.floor,
-	stringFromCharCode = String.fromCharCode,
-
-	/** Temporary variable */
-	key;
-
-	/*--------------------------------------------------------------------------*/
-
-	/**
-	 * A generic error utility function.
-	 * @private
-	 * @param {String} type The error type.
-	 * @returns {Error} Throws a `RangeError` with the applicable error message.
-	 */
-	function error(type) {
-		throw new RangeError(errors[type]);
-	}
-
-	/**
-	 * A generic `Array#map` utility function.
-	 * @private
-	 * @param {Array} array The array to iterate over.
-	 * @param {Function} callback The function that gets called for every array
-	 * item.
-	 * @returns {Array} A new array of values returned by the callback function.
-	 */
-	function map(array, fn) {
-		var length = array.length;
-		var result = [];
-		while (length--) {
-			result[length] = fn(array[length]);
-		}
-		return result;
-	}
-
-	/**
-	 * A simple `Array#map`-like wrapper to work with domain name strings or email
-	 * addresses.
-	 * @private
-	 * @param {String} domain The domain name or email address.
-	 * @param {Function} callback The function that gets called for every
-	 * character.
-	 * @returns {Array} A new string of characters returned by the callback
-	 * function.
-	 */
-	function mapDomain(string, fn) {
-		var parts = string.split('@');
-		var result = '';
-		if (parts.length > 1) {
-			// In email addresses, only the domain name should be punycoded. Leave
-			// the local part (i.e. everything up to `@`) intact.
-			result = parts[0] + '@';
-			string = parts[1];
-		}
-		// Avoid `split(regex)` for IE8 compatibility. See #17.
-		string = string.replace(regexSeparators, '\x2E');
-		var labels = string.split('.');
-		var encoded = map(labels, fn).join('.');
-		return result + encoded;
-	}
-
-	/**
-	 * Creates an array containing the numeric code points of each Unicode
-	 * character in the string. While JavaScript uses UCS-2 internally,
-	 * this function will convert a pair of surrogate halves (each of which
-	 * UCS-2 exposes as separate characters) into a single code point,
-	 * matching UTF-16.
-	 * @see `punycode.ucs2.encode`
-	 * @see <https://mathiasbynens.be/notes/javascript-encoding>
-	 * @memberOf punycode.ucs2
-	 * @name decode
-	 * @param {String} string The Unicode input string (UCS-2).
-	 * @returns {Array} The new array of code points.
-	 */
-	function ucs2decode(string) {
-		var output = [],
-		    counter = 0,
-		    length = string.length,
-		    value,
-		    extra;
-		while (counter < length) {
-			value = string.charCodeAt(counter++);
-			if (value >= 0xD800 && value <= 0xDBFF && counter < length) {
-				// high surrogate, and there is a next character
-				extra = string.charCodeAt(counter++);
-				if ((extra & 0xFC00) == 0xDC00) { // low surrogate
-					output.push(((value & 0x3FF) << 10) + (extra & 0x3FF) + 0x10000);
-				} else {
-					// unmatched surrogate; only append this code unit, in case the next
-					// code unit is the high surrogate of a surrogate pair
-					output.push(value);
-					counter--;
-				}
-			} else {
-				output.push(value);
-			}
-		}
-		return output;
-	}
-
-	/**
-	 * Creates a string based on an array of numeric code points.
-	 * @see `punycode.ucs2.decode`
-	 * @memberOf punycode.ucs2
-	 * @name encode
-	 * @param {Array} codePoints The array of numeric code points.
-	 * @returns {String} The new Unicode string (UCS-2).
-	 */
-	function ucs2encode(array) {
-		return map(array, function(value) {
-			var output = '';
-			if (value > 0xFFFF) {
-				value -= 0x10000;
-				output += stringFromCharCode(value >>> 10 & 0x3FF | 0xD800);
-				value = 0xDC00 | value & 0x3FF;
-			}
-			output += stringFromCharCode(value);
-			return output;
-		}).join('');
-	}
-
-	/**
-	 * Converts a basic code point into a digit/integer.
-	 * @see `digitToBasic()`
-	 * @private
-	 * @param {Number} codePoint The basic numeric code point value.
-	 * @returns {Number} The numeric value of a basic code point (for use in
-	 * representing integers) in the range `0` to `base - 1`, or `base` if
-	 * the code point does not represent a value.
-	 */
-	function basicToDigit(codePoint) {
-		if (codePoint - 48 < 10) {
-			return codePoint - 22;
-		}
-		if (codePoint - 65 < 26) {
-			return codePoint - 65;
-		}
-		if (codePoint - 97 < 26) {
-			return codePoint - 97;
-		}
-		return base;
-	}
-
-	/**
-	 * Converts a digit/integer into a basic code point.
-	 * @see `basicToDigit()`
-	 * @private
-	 * @param {Number} digit The numeric value of a basic code point.
-	 * @returns {Number} The basic code point whose value (when used for
-	 * representing integers) is `digit`, which needs to be in the range
-	 * `0` to `base - 1`. If `flag` is non-zero, the uppercase form is
-	 * used; else, the lowercase form is used. The behavior is undefined
-	 * if `flag` is non-zero and `digit` has no uppercase form.
-	 */
-	function digitToBasic(digit, flag) {
-		//  0..25 map to ASCII a..z or A..Z
-		// 26..35 map to ASCII 0..9
-		return digit + 22 + 75 * (digit < 26) - ((flag != 0) << 5);
-	}
-
-	/**
-	 * Bias adaptation function as per section 3.4 of RFC 3492.
-	 * https://tools.ietf.org/html/rfc3492#section-3.4
-	 * @private
-	 */
-	function adapt(delta, numPoints, firstTime) {
-		var k = 0;
-		delta = firstTime ? floor(delta / damp) : delta >> 1;
-		delta += floor(delta / numPoints);
-		for (/* no initialization */; delta > baseMinusTMin * tMax >> 1; k += base) {
-			delta = floor(delta / baseMinusTMin);
-		}
-		return floor(k + (baseMinusTMin + 1) * delta / (delta + skew));
-	}
-
-	/**
-	 * Converts a Punycode string of ASCII-only symbols to a string of Unicode
-	 * symbols.
-	 * @memberOf punycode
-	 * @param {String} input The Punycode string of ASCII-only symbols.
-	 * @returns {String} The resulting string of Unicode symbols.
-	 */
-	function decode(input) {
-		// Don't use UCS-2
-		var output = [],
-		    inputLength = input.length,
-		    out,
-		    i = 0,
-		    n = initialN,
-		    bias = initialBias,
-		    basic,
-		    j,
-		    index,
-		    oldi,
-		    w,
-		    k,
-		    digit,
-		    t,
-		    /** Cached calculation results */
-		    baseMinusT;
-
-		// Handle the basic code points: let `basic` be the number of input code
-		// points before the last delimiter, or `0` if there is none, then copy
-		// the first basic code points to the output.
-
-		basic = input.lastIndexOf(delimiter);
-		if (basic < 0) {
-			basic = 0;
-		}
-
-		for (j = 0; j < basic; ++j) {
-			// if it's not a basic code point
-			if (input.charCodeAt(j) >= 0x80) {
-				error('not-basic');
-			}
-			output.push(input.charCodeAt(j));
-		}
-
-		// Main decoding loop: start just after the last delimiter if any basic code
-		// points were copied; start at the beginning otherwise.
-
-		for (index = basic > 0 ? basic + 1 : 0; index < inputLength; /* no final expression */) {
-
-			// `index` is the index of the next character to be consumed.
-			// Decode a generalized variable-length integer into `delta`,
-			// which gets added to `i`. The overflow checking is easier
-			// if we increase `i` as we go, then subtract off its starting
-			// value at the end to obtain `delta`.
-			for (oldi = i, w = 1, k = base; /* no condition */; k += base) {
-
-				if (index >= inputLength) {
-					error('invalid-input');
-				}
-
-				digit = basicToDigit(input.charCodeAt(index++));
-
-				if (digit >= base || digit > floor((maxInt - i) / w)) {
-					error('overflow');
-				}
-
-				i += digit * w;
-				t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
-
-				if (digit < t) {
-					break;
-				}
-
-				baseMinusT = base - t;
-				if (w > floor(maxInt / baseMinusT)) {
-					error('overflow');
-				}
-
-				w *= baseMinusT;
-
-			}
-
-			out = output.length + 1;
-			bias = adapt(i - oldi, out, oldi == 0);
-
-			// `i` was supposed to wrap around from `out` to `0`,
-			// incrementing `n` each time, so we'll fix that now:
-			if (floor(i / out) > maxInt - n) {
-				error('overflow');
-			}
-
-			n += floor(i / out);
-			i %= out;
-
-			// Insert `n` at position `i` of the output
-			output.splice(i++, 0, n);
-
-		}
-
-		return ucs2encode(output);
-	}
-
-	/**
-	 * Converts a string of Unicode symbols (e.g. a domain name label) to a
-	 * Punycode string of ASCII-only symbols.
-	 * @memberOf punycode
-	 * @param {String} input The string of Unicode symbols.
-	 * @returns {String} The resulting Punycode string of ASCII-only symbols.
-	 */
-	function encode(input) {
-		var n,
-		    delta,
-		    handledCPCount,
-		    basicLength,
-		    bias,
-		    j,
-		    m,
-		    q,
-		    k,
-		    t,
-		    currentValue,
-		    output = [],
-		    /** `inputLength` will hold the number of code points in `input`. */
-		    inputLength,
-		    /** Cached calculation results */
-		    handledCPCountPlusOne,
-		    baseMinusT,
-		    qMinusT;
-
-		// Convert the input in UCS-2 to Unicode
-		input = ucs2decode(input);
-
-		// Cache the length
-		inputLength = input.length;
-
-		// Initialize the state
-		n = initialN;
-		delta = 0;
-		bias = initialBias;
-
-		// Handle the basic code points
-		for (j = 0; j < inputLength; ++j) {
-			currentValue = input[j];
-			if (currentValue < 0x80) {
-				output.push(stringFromCharCode(currentValue));
-			}
-		}
-
-		handledCPCount = basicLength = output.length;
-
-		// `handledCPCount` is the number of code points that have been handled;
-		// `basicLength` is the number of basic code points.
-
-		// Finish the basic string - if it is not empty - with a delimiter
-		if (basicLength) {
-			output.push(delimiter);
-		}
-
-		// Main encoding loop:
-		while (handledCPCount < inputLength) {
-
-			// All non-basic code points < n have been handled already. Find the next
-			// larger one:
-			for (m = maxInt, j = 0; j < inputLength; ++j) {
-				currentValue = input[j];
-				if (currentValue >= n && currentValue < m) {
-					m = currentValue;
-				}
-			}
-
-			// Increase `delta` enough to advance the decoder's <n,i> state to <m,0>,
-			// but guard against overflow
-			handledCPCountPlusOne = handledCPCount + 1;
-			if (m - n > floor((maxInt - delta) / handledCPCountPlusOne)) {
-				error('overflow');
-			}
-
-			delta += (m - n) * handledCPCountPlusOne;
-			n = m;
-
-			for (j = 0; j < inputLength; ++j) {
-				currentValue = input[j];
-
-				if (currentValue < n && ++delta > maxInt) {
-					error('overflow');
-				}
-
-				if (currentValue == n) {
-					// Represent delta as a generalized variable-length integer
-					for (q = delta, k = base; /* no condition */; k += base) {
-						t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
-						if (q < t) {
-							break;
-						}
-						qMinusT = q - t;
-						baseMinusT = base - t;
-						output.push(
-							stringFromCharCode(digitToBasic(t + qMinusT % baseMinusT, 0))
-						);
-						q = floor(qMinusT / baseMinusT);
-					}
-
-					output.push(stringFromCharCode(digitToBasic(q, 0)));
-					bias = adapt(delta, handledCPCountPlusOne, handledCPCount == basicLength);
-					delta = 0;
-					++handledCPCount;
-				}
-			}
-
-			++delta;
-			++n;
-
-		}
-		return output.join('');
-	}
-
-	/**
-	 * Converts a Punycode string representing a domain name or an email address
-	 * to Unicode. Only the Punycoded parts of the input will be converted, i.e.
-	 * it doesn't matter if you call it on a string that has already been
-	 * converted to Unicode.
-	 * @memberOf punycode
-	 * @param {String} input The Punycoded domain name or email address to
-	 * convert to Unicode.
-	 * @returns {String} The Unicode representation of the given Punycode
-	 * string.
-	 */
-	function toUnicode(input) {
-		return mapDomain(input, function(string) {
-			return regexPunycode.test(string)
-				? decode(string.slice(4).toLowerCase())
-				: string;
-		});
-	}
-
-	/**
-	 * Converts a Unicode string representing a domain name or an email address to
-	 * Punycode. Only the non-ASCII parts of the domain name will be converted,
-	 * i.e. it doesn't matter if you call it with a domain that's already in
-	 * ASCII.
-	 * @memberOf punycode
-	 * @param {String} input The domain name or email address to convert, as a
-	 * Unicode string.
-	 * @returns {String} The Punycode representation of the given domain name or
-	 * email address.
-	 */
-	function toASCII(input) {
-		return mapDomain(input, function(string) {
-			return regexNonASCII.test(string)
-				? 'xn--' + encode(string)
-				: string;
-		});
-	}
-
-	/*--------------------------------------------------------------------------*/
-
-	/** Define the public API */
-	punycode = {
-		/**
-		 * A string representing the current Punycode.js version number.
-		 * @memberOf punycode
-		 * @type String
-		 */
-		'version': '1.4.1',
-		/**
-		 * An object of methods to convert from JavaScript's internal character
-		 * representation (UCS-2) to Unicode code points, and back.
-		 * @see <https://mathiasbynens.be/notes/javascript-encoding>
-		 * @memberOf punycode
-		 * @type Object
-		 */
-		'ucs2': {
-			'decode': ucs2decode,
-			'encode': ucs2encode
-		},
-		'decode': decode,
-		'encode': encode,
-		'toASCII': toASCII,
-		'toUnicode': toUnicode
-	};
-
-	/** Expose `punycode` */
-	// Some AMD build optimizers, like r.js, check for specific condition patterns
-	// like the following:
-	if (
-		typeof define == 'function' &&
-		typeof define.amd == 'object' &&
-		define.amd
-	) {
-		define('punycode', function() {
-			return punycode;
-		});
-	} else if (freeExports && freeModule) {
-		if (module.exports == freeExports) {
-			// in Node.js, io.js, or RingoJS v0.8.0+
-			freeModule.exports = punycode;
-		} else {
-			// in Narwhal or RingoJS v0.7.0-
-			for (key in punycode) {
-				punycode.hasOwnProperty(key) && (freeExports[key] = punycode[key]);
-			}
-		}
-	} else {
-		// in Rhino or a web browser
-		root.punycode = punycode;
-	}
-
-}(this));
-
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__("./node_modules/webpack/buildin/module.js")(module), __webpack_require__("./node_modules/webpack/buildin/global.js")))
 
 /***/ })
 
