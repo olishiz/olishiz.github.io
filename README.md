@@ -7,4 +7,5 @@ Forked from https://github.com/dwightjack/marco.solazzi.me and npm run build vue
 
 > Hope you guys enjoyed it and have a nice day.
 
-Latest updated website: 27/7/2021
+
+> Latest updated website: 27th July 2021
