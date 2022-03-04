@@ -1020,7 +1020,7 @@ module.exports = [{"label":"Languages","ico":"code","data":[{"id":"html5","label
 /***/ "./app/assets/js/database/social.json":
 /***/ (function(module, exports) {
 
-module.exports = [{"type":"twitter","url":"https://twitter.com/olitehshiz","label":"@olitehshiz"},{"type":"pencil","url":"mailto:zhuen1101@hotmail.com","label":"zhuen1101@hotmail.com"},{"type":"github","url":"https://github.com/olishiz","label":"olishiz"},{"type":"linkedin","url":"https://www.linkedin.com/in/olishiz/","label":"in/olishiz"},{"type":"pdf","url":"https://drive.google.com/file/d/1t1TdhJ3KRMCM0FJQKbkvAXPpkWa1Dkzt/view","label":"pdf/resume"}]
+module.exports = [{"type":"twitter","url":"https://twitter.com/olitehshiz","label":"@olitehshiz"},{"type":"pencil","url":"mailto:zhuen1101@hotmail.com","label":"zhuen1101@hotmail.com"},{"type":"github","url":"https://github.com/olishiz","label":"olishiz"},{"type":"linkedin","url":"https://www.linkedin.com/in/olishiz/","label":"in/olishiz"},{"type":"pdf","url":"https://drive.google.com/file/d/1stO0AL07OZnR3enDBlJEybJ5nr4T9n69/view","label":"pdf/resume"}]
 
 /***/ }),
 
