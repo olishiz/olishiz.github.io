@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Oliver Sim has moved to olishiz.com</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://olishiz.com/">
+<script>
+(function () {
+  var known = ['/', '/experience', '/blog', '/projects', '/thoughts', '/guestbook'];
+  var path = location.pathname.replace(/\/index\.html$/, '/').replace(/(.)\/+$/, '$1');
+  if (path.indexOf('/blog/') === 0 && /^\/blog\/[a-z0-9-]+$/.test(path)) known.push(path);
+  var target = known.indexOf(path) !== -1 ? path : '/';
+  location.replace('https://olishiz.com' + target + location.search + location.hash);
+})();
+</script>
+<meta http-equiv="refresh" content="0; url=https://olishiz.com/">
+<style>
+  body{font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif;color:#2a2f3a;background:#fbfbfb;display:grid;place-items:center;min-height:100vh;margin:0;padding:1.5rem;text-align:center}
+  a{color:inherit}
+</style>
+</head>
+<body>
+<main>
+  <p>This site has moved to <a href="https://olishiz.com/">olishiz.com</a>.</p>
+  <p><a href="https://olishiz.com/">Continue to olishiz.com &rarr;</a></p>
+</main>
+</body>
+</html>

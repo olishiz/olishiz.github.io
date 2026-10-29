@@ -1,8 +1,12 @@
-# Resume
-Static Github Page for my personal website.
+# olishiz.github.io
 
-Credits goes to 'dwightjack' for open sourcing such a beautiful personal website.
+This GitHub Pages site now redirects to **https://olishiz.com**.
 
-Forked from https://github.com/dwightjack/marco.solazzi.me and npm run build vue app to be deployed to Github Pages.
+`index.html` and `404.html` send visitors to the same page on olishiz.com when it exists
+(`/experience`, `/blog`, `/projects`, `/thoughts`, `/guestbook`), keeping the query string and hash;
+any other path goes to the olishiz.com home page.
 
-> Latest updated website: 24th July 2025
+Project sites served from other repos (for example `/portfolio/`) are not affected.
+
+The previous Vue build (forked from dwightjack/marco.solazzi.me) is kept in git history;
+revert this commit to restore it.
